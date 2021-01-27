@@ -1,19 +1,7 @@
-# Hi there 👋
-
-- 🔭 I’m currently working on EduSiteHost
-- 🌱 I’m currently learning React
-- 💬 Ask me about UI
-- 📫 Mail me - georgebobbyawesome@gmail.com
-- ⚡ Fun fact: I hate tickling
-
-
-
 [![George Bobby](https://ik.imagekit.io/designsproweb/web/img/126264992_379923150096492_4130696704871181214_n_YaKqzvzmM.jpg)](https://braydoncoyer.dev)
-
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+[![Visits Badge](https://badges.pufler.dev/visits/georgebawesome/georgebawesome)](https:braydoncoyer.dev)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/georgebawesome)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/georgebawesome)
 
 Hey there 👋
 
@@ -21,17 +9,11 @@ I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed 
 
 Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
-## 📝 Latest Blog Posts
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-- [Creating a Killer GitHub Profile README Part 1](https://blog.braydoncoyer.dev/creating-a-killer-github-profile-readme-part-1)
-- [No Code: Build Games with GameSalad](https://blog.braydoncoyer.dev/no-code-build-games-with-gamesalad)
-- [The kbd HTML Tag](https://blog.braydoncoyer.dev/the-kbd-html-tag)
-- [Lighthouse and Integrating with Netlify](https://blog.braydoncoyer.dev/lighthouse-and-integrating-with-netlify)
-- [The progress HTML Tag](https://blog.braydoncoyer.dev/the-progress-html-tag)
-<!-- BLOG-POST-LIST:END -->
+- 🔭 I’m currently working on EduSiteHost
+- 🌱 I’m currently learning React
+- 💬 Ask me about UI
+- 📫 Mail me - georgebobbyawesome@gmail.com
+- ⚡ Fun fact: I hate tickling
 
 <br>
 
