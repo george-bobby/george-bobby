@@ -10,7 +10,7 @@ I'm a just a human like you who loves Frontend. Here is my life story(in the sho
 
 Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
-- 🔭 I’m currently working on <a href="//temp.edusitehost.org">EduSiteHost</a>
+- 🔭 I’m currently working on <a href="http://temp.edusitehost.org/">EduSiteHost</a>
 - 🌱 I’m currently learning React
 - 💬 Ask me about UI
 - 📫 Mail me - georgebobbyawesome@gmail.com
