@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I’m Braydon, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I'm a just a human like you who loves Frontend. Here is my life story(in the shortest way). All it started with a youtube channel. First I had a youtube channel named "George's SciLab". For the channel, I started to learn 2D Animation(Synfig, Tupi2D). After that, I went to 3D(Blender, Maya). I don't know how, but I jumped into HTML. That forced me to learn CSS and JS. From the knowledge from there, I studied some frameworks. Then I wished to study WordPress and PHP. And there started my Backend journey. Then I learned PHP, SQL and so. Now also I'm studying to be a fullstack. Since now, I had never ever worked for money. I done all my contributions to gain experience as a freelancer. You can now hire to to design your website for FREE! Wish me best of luck...
 
 Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
@@ -15,50 +15,6 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 - 📫 Mail me - georgebobbyawesome@gmail.com
 - ⚡ Fun fact: I hate tickling
 
-<br>
-
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-
-# <div align="center">Hi 👋, I'm Brayden</a>
-
-### <div align="center">Developer • Designer • Core Member and Lead Designer 🤙 <a href="https://github.com/fiwl-js">@fiwl-js</a></div>  
-<br>
-<p align="center">- 🔭 I’m currently working on <a href="https://github.com/fiwl-js/fiwl-js">FIWL.js</a> and <a href="https://github.com/braydentw/create-html-boilerplate">Create HTML Boilerplate</a></p>
-<p align="center">- 🌱 I’m currently learning NextJS and the MERN stack.</p>
-<p align="center">- ⚡ I love listening to Lo-Fi beats when coding.</p>
 <br>
 
 <p align="center">
@@ -95,7 +51,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 <h2 align="center">Like my Work?</h2>
 <p align="center">
-Support me my work and <a href="https://www.buymeacoffee.com/braydenw">buy me a coffee</a>.
+Support me my work and <a href="https://www.buymeacoffee.com/georgebawesome">buy me a coffee</a>.
 </p>
 <p align="center">
 I apprecate this. 🤗
