@@ -33,12 +33,7 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 </p>
 
 <h2 align="center">Like my Work?</h2>
+
 <p align="center">
-Support me my work and <a href="https://www.buymeacoffee.com/georgebawesome">buy me a coffee</a>.
-</p>
-<p align="center">
-I apprecate this. 🤗
-</p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/georgebawesome" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"  style="border-radius: 8px;"></a>
+<a href="https://www.buymeacoffee.com/georgebawesome" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"  style="border-radius: 20px;"></a>
 </p> 
