@@ -1,4 +1,5 @@
 [![George Bobby](https://ik.imagekit.io/designsproweb/web/img/126264992_379923150096492_4130696704871181214_n_YaKqzvzmM.jpg)](http://designsproweb.thats.im/)
+<br>
 [![Visits Badge](https://badges.pufler.dev/visits/georgebawesome/georgebawesome)](https://github.com/georgebawesome)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/georgebawesome)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/georgebawesome)
@@ -9,7 +10,7 @@ I'm a just a human like you who loves Frontend. Here is my life story(in the sho
 
 Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
-- 🔭 I’m currently working on EduSiteHost
+- 🔭 I’m currently working on <a href="//temp.edusitehost.org">EduSiteHost</a>
 - 🌱 I’m currently learning React
 - 💬 Ask me about UI
 - 📫 Mail me - georgebobbyawesome@gmail.com
