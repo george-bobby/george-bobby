@@ -18,18 +18,18 @@ Want to know more about me? [Check out my portfolio.](https://braydoncoyer.dev/)
 
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=braydentw" alt="braydentw" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgebawesome" alt="braydentw" /></a> </p>
 
 <p align="center">
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=braydentw&theme=prussian&show_icons=true&count_private=true&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=georgebawesome&theme=prussian&show_icons=true&count_private=true&hide_border=true">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=prussian">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgebawesome&layout=compact&theme=prussian">
   </a>
 </p>
 
