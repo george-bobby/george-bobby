@@ -10,8 +10,8 @@ I'm a just a human like you who loves Frontend. Here is my life story(in the sho
 
 Want to know more about me? [Check out my portfolio.](http://designsproweb.thats.im/index.html)
 
-- 🔭 I’m currently working on <a href="http://temp.edusitehost.org/">EduSiteHost</a>
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on <a href="https://edusitehost.org/">EduSiteHost</a>
+- 🌱 I’m currently learning to be MERN Stack
 - 💬 Ask me about UI
 - 📫 Mail me - georgebobbyawesome@gmail.com
 - ⚡ Fun fact: I hate tickling
