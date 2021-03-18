@@ -6,7 +6,7 @@
 
 Hey there 👋
 
-I'm a just a human like you who loves Frontend. Here is my life story(in the shortest way). All it started with a youtube channel. First I had a youtube channel named "George's SciLab". For the channel, I started to learn 2D Animation(Synfig, Tupi2D). After that, I went to 3D(Blender, Maya). I don't know how, but I jumped into HTML. That forced me to learn CSS and JS. From the knowledge from there, I studied some frameworks. Then I wished to study WordPress and PHP. And there started my Backend journey. Then I learned PHP, SQL and so. Now also I'm studying to be a fullstack. Since now, I had never ever worked for money. I done all my contributions to gain experience as a freelancer. You can now hire to to design your website for FREE! Wish me best of luck...
+I'm just a human like you who loves Frontend. Here is my life story(in the shortest way). All it started with a youtube channel. First I had a youtube channel named "George's SciLab". For the channel, I started to learn 2D Animation(Synfig, Tupi2D). After that, I went to 3D(Blender, Maya). I don't know how, but I jumped into HTML. That forced me to learn CSS and JS. From the knowledge from there, I studied some frameworks. Then I wished to study WordPress and PHP. And there started my Backend journey. Then I learned PHP, SQL and so. Now also I'm studying to be a fullstack. Since now, I had never ever worked for money. I done all my contributions to gain experience as a freelancer. You can now hire to to design your website for FREE! Wish me best of luck...
 
 Want to know more about me? [Check out my portfolio.](http://designsproweb.thats.im/index.html)
 
