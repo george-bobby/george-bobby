@@ -18,8 +18,6 @@ Want to know more about me? [Check out my portfolio.](http://designsproweb.thats
 
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgebawesome" alt="braydentw" /></a> </p>
-
 <p align="center">
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
