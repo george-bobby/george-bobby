@@ -46,22 +46,9 @@ Want to know more about me? [Check out my portfolio.](https://georgebawesome.ml/
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=georgebawesome)  
 
-
-![GitHub metrics](https://metrics.lecoq.io/georgebawesome)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=georgebawesome)  
 
 <br>
-
-
-
-
-
-
-
-<br>
-
-
 
 ## 💼 Skills
 
