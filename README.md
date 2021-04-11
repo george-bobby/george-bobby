@@ -1,5 +1,4 @@
 [![George Bobby](https://ik.imagekit.io/designsproweb/web/img/126264992_379923150096492_4130696704871181214_n_YaKqzvzmM.jpg)](http://georgebawesome.ml/)
-<br>
 [![Visits Badge](https://badges.pufler.dev/visits/georgebawesome/georgebawesome)](https://github.com/georgebawesome)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/georgebawesome)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/georgebawesome)
