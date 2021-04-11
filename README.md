@@ -21,6 +21,28 @@ Want to know more about me? [Check out my portfolio.](https://georgebawesome.ml/
 
 <br>
 
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/braydoncoyer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=georgebawesome)  
+
+
+![GitHub metrics](https://metrics.lecoq.io/georgebawesome)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=georgebawesome)  
+
+<br>
+
 <p align="center">
   
   <a href="https://github.com/georgebawesome">
@@ -34,11 +56,7 @@ Want to know more about me? [Check out my portfolio.](https://georgebawesome.ml/
   </a>
 </p>
 
-<h2 align="center">Like my Work?</h2>
 
-<p align="center">
-<a href="https://www.buymeacoffee.com/georgebawesome" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"  style="border-radius: 20px;"></a>
-</p> 
 
 
 
@@ -63,28 +81,7 @@ Want to know more about me? [Check out my portfolio.](https://georgebawesome.ml/
 </a>
 
 <br>
-<br>
 
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braydoncoyer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=braydoncoyer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=georgebawesome)  
-
-
-![GitHub metrics](https://metrics.lecoq.io/georgebawesome)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=georgebawesome)  
-
-<br>
 
 ## 💼 Skills
 
@@ -149,7 +146,11 @@ Want to know more about me? [Check out my portfolio.](https://georgebawesome.ml/
 
 
 
+<h2 align="center">Like my Work?</h2>
 
+<p align="center">
+<a href="https://www.buymeacoffee.com/georgebawesome" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"  style="border-radius: 20px;"></a>
+</p> 
 
 
 
