@@ -3,9 +3,18 @@
 <br>
 
 [![Visits Badge](https://badges.pufler.dev/visits/georgebawesome/georgebawesome)](https://github.com/georgebawesome)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/georgebawesome)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/georgebawesome)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/georgebawesome/)
+
+
+<p align="center">
+  <b>Let's connect and chat! Find me on the web...</b>
+  
+   [![Website Badge](https://img.shields.io/badge/-georgebawesome.ml-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://georgebawesome.ml/)](https://georgebawesome.ml/) 
+   [![Linkedin Badge](https://img.shields.io/badge/-georgebawesome-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/georgebawesome/)](https://www.linkedin.com/in/georgebawesome/) 
+   [![Codepen Badge](https://img.shields.io/badge/-@georgebawesome-000000?style=flat&labelColor=000000&logo=Codepen&link=https://codepen.io/georgebawesome)](https://codepen.io/georgebawesome) 
+   [![Gmail Badge](https://img.shields.io/badge/-georgebobbyawesome-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:georgebobbyawesome@gmail.com)](mailto:georgebobbyawesome@gmail.com)
+   [![Instagram Badge](https://img.shields.io/badge/-@uitooltip-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/uitooltip/)](https://instagram.com/uitooltip) 
+   [![Facebook Badge](https://img.shields.io/badge/-georgebawesome-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/georgebawesome)](https://www.facebook.com/georgebawesome)
+   [![Twitter Badge](https://img.shields.io/badge/georgebawesome-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/georgebawesome)](https://twitter.com/georgebawesome)
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
 
