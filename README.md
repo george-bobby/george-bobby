@@ -1,4 +1,4 @@
-[![George Bobby](https://ik.imagekit.io/designsproweb/web/img/126264992_379923150096492_4130696704871181214_n_YaKqzvzmM.jpg)](http://georgebawesome.ml/)
+[![George Bobby](https://i.imgur.com/RciNJ9w.png)](http://georgebawesome.ml/)
 
 <br>
 
