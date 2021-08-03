@@ -1,6 +1,3 @@
-[![George Bobby](https://i.imgur.com/RciNJ9w.png)](http://georgebawesome.ml/)
-
-<br>
 
 [![Visits Badge](https://badges.pufler.dev/visits/georgebawesome/georgebawesome)](https://github.com/georgebawesome)
 
