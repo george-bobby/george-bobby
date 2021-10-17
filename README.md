@@ -1,42 +1,48 @@
-
-[![Visits Badge](https://badges.pufler.dev/visits/georgebawesome/georgebawesome)](https://github.com/georgebawesome)
-
-<br>
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
-
-Hey there 👋
-
-I'm just a human like you who loves Frontend. Here is my life story(in the shortest way). All it started with a youtube channel. First I had a youtube channel named "George's SciLab". For the channel, I started to learn 2D Animation(Synfig, Tupi2D). After that, I went to 3D(Blender, Maya). I don't know how, but I jumped into HTML. That forced me to learn CSS and JS. From the knowledge from there, I studied some frameworks. Then I wished to study WordPress and PHP. And there started my Backend journey. Then I learned PHP, SQL and so. Now also I'm studying to be a fullstack. Since now, I had never ever worked for money. I done all my contributions to gain experience as a freelancer. You can now hire to to design your website for FREE! Wish me best of luck...
-
-Want to know more about me? [Check out my portfolio.](https://georgebawesome.ml/)
-
-- 🔭 I’m currently working on <a href="https://edusitehost.org/">EduSiteHost</a>
-- 🌱 I’m currently learning to be MERN Stack
-- 💬 Ask me about UI
-- 📫 Mail me - georgebobbyawesome@gmail.com
-- ⚡ Fun fact: I hate tickling
-
-<br>
-<p align="center">
-  <b>Let's connect and chat! Find me on the web...</b>
+<h1 align="center">Hi 👋, I'm George Bobby</h1>  
+<h3 align="center">A passionate frontend developer from India</h3>  
   
-   [![Website Badge](https://img.shields.io/badge/-georgebawesome.ml-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://georgebawesome.ml/)](https://georgebawesome.ml/) 
-   [![Linkedin Badge](https://img.shields.io/badge/-georgebawesome-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/georgebawesome/)](https://www.linkedin.com/in/georgebawesome/) 
-   [![Codepen Badge](https://img.shields.io/badge/-@georgebawesome-000000?style=flat&labelColor=000000&logo=Codepen&link=https://codepen.io/georgebawesome)](https://codepen.io/georgebawesome) 
-   [![Gmail Badge](https://img.shields.io/badge/-georgebobbyawesome-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:georgebobbyawesome@gmail.com)](mailto:georgebobbyawesome@gmail.com)
-   [![Instagram Badge](https://img.shields.io/badge/-@uitooltip-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/uitooltip/)](https://instagram.com/uitooltip) 
-   [![Facebook Badge](https://img.shields.io/badge/-georgebawesome-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/georgebawesome)](https://www.facebook.com/georgebawesome)
-   [![Twitter Badge](https://img.shields.io/badge/georgebawesome-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/georgebawesome)](https://twitter.com/georgebawesome)
-<br>
+<p align="center"> <img src="https://badges.pufler.dev/visits/georgebawesome/georgebawesome" alt="georgebawesome" /> </p>  
+
+<p align="center"> <a href="https://twitter.com/georgebawesome" target="blank"><img src="https://img.shields.io/twitter/follow/georgebawesome?logo=twitter&style=for-the-badge" alt="georgebawesome" /></a> </p>  
+  
+- 🔭 I’m currently working on [GetJam](https://joju.cf/)  
+  
+- 🌱 I’m currently learning to be **MERN Stack**  
+  
+- 👯 I’m looking to collaborate on [GyaanShaala](https://gyaanshaala.in/)  
+  
+- 👨‍💻 All of my projects are available at [my portfolio](https://georgebawesome.ml/)  
+  
+- 📝 I regularly write articles on [my blog](https://dev.to/georgebawesome)  
+  
+- 💬 Ask me about **react, node and express**  
+  
+- 📫 Reach me via **georgebobbyawesome@gmail.com**  
+  
+- 📄 Know about my experiences [in my resume](https://georgebawesome.ml/)  
+  
+- ⚡ Fun fact **I hate tickling**  
+  
+## Contact Me
+
+<p align="center">  
+<a href="https://codepen.io/georgebawesome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="georgebawesome" height="30" width="40" /></a>  
+<a href="https://dev.to/georgebawesome" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="georgebawesome" height="30" width="40" /></a>  
+<a href="https://twitter.com/georgebawesome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="georgebawesome" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/georgebawesome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgebawesome" height="30" width="40" /></a>  
+<a href="https://fb.com/georgebawesome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="georgebawesome" height="30" width="40" /></a>  
+<a href="https://instagram.com/uitooltip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uitooltip" height="30" width="40" /></a>  
+<a href="https://dribbble.com/georgebawesome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="georgebawesome" height="30" width="40" /></a>  
+</p>  
+
+I'm just a human like you who loves Frontend. Here is my life story(in the shortest way). All it started with a youtube channel. First I had a youtube channel named "George's SciLab". For the channel, I started to learn 2D Animation(Synfig, Tupi2D). After that, I went to 3D(Blender). I don't know how, but I jumped into HTML. That forced me to learn CSS and JS. From the knowledge from there, I studied some frameworks. Then I wished to study WordPress and PHP. And there started my Backend journey. Then I learned PHP, SQL and so. Now also I'm studying to be a fullstack. Since now, I had never ever worked for money. I done all my contributions to gain experience as a freelancer. Wish me best of luck...
+## 💼 Skills 
+<p align="left"> <a href="https://appwrite.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>  
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
-
 <p align="center">
-  
-  <a href="https://github.com/georgebawesome">
+    <a href="https://github.com/georgebawesome">
     <img src="https://github-readme-stats.vercel.app/api?username=georgebawesome&theme=prussian&show_icons=true&count_private=true&hide_border=true">
   </a>
 </p>
@@ -53,46 +59,7 @@ Want to know more about me? [Check out my portfolio.](https://georgebawesome.ml/
   </a>
 </p>
 
-<br>
-
-## 💼 Skills
-
-
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-
-<br>
-
-
 <h2 align="center">Like my Work?</h2>
 <p align="center">
 <a href="https://www.buymeacoffee.com/georgebawesome" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"  style="border-radius: 20px;"></a>
-</p> 
+</p> -
