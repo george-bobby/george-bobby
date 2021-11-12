@@ -7,7 +7,7 @@
   
 - 🔭 I’m currently working on [GetJam](https://joju.cf/)  
   
-- 🌱 I’m currently learning to be **MERN Stack**  
+- 🌱 I’m currently learning to be [MERN Stack](https://www.mongodb.com/mern-stack)
   
 - 👯 I’m looking to collaborate on [GyaanShaala](https://gyaanshaala.in/)  
   
