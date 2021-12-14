@@ -40,11 +40,11 @@
 
 ## Posts from my fav Blogs
 <!-- BLOG-POST-LIST:START -->
-- [npm audit: Broken by Design](https://overreacted.io/npm-audit-broken-by-design/)
-- [Before You memo&lpar;&rpar;](https://overreacted.io/before-you-memo/)
-- [The WET Codebase](https://overreacted.io/the-wet-codebase/)
-- [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)
-- [My Decade in Review](https://overreacted.io/my-decade-in-review/)
+- [How to Build Good Habits](https://blog.jameslieu.co.uk/how-to-build-good-habits)
+- [Why You Should Keep a Programming Journal](https://blog.jameslieu.co.uk/why-you-should-keep-a-programming-journal)
+- [My Sorting Visualiser](https://blog.jameslieu.co.uk/sorting-visualiser)
+- [Learn CSS by Playing Games](https://blog.saviomartin.com/learn-css-by-playing-games)
+- [20 Killer JavaScript One Liners ☝️](https://blog.saviomartin.com/20-killer-javascript-one-liners)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
