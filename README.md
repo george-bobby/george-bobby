@@ -69,13 +69,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/georgebawesome">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=georgebawesome&layout=compact&theme=prussian">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgebawesome&layout=compact&theme=prussian">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/georgebawesome">
+  <a href="https://activity-graph.herokuapp.com/graph?username=georgebawesome">
     <img src="https://activity-graph.herokuapp.com/graph?username=georgebawesome">
   </a>
 </p>
