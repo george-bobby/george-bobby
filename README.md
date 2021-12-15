@@ -80,6 +80,11 @@
   </a>
 </p>
 
+## Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## Love my Work?
 
 <p align="center">
