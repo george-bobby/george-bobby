@@ -36,11 +36,6 @@
 ## Posts from my fav Blogs
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Good Habits](https://blog.jameslieu.co.uk/how-to-build-good-habits)
-- [Why You Should Keep a Programming Journal](https://blog.jameslieu.co.uk/why-you-should-keep-a-programming-journal)
-- [My Sorting Visualiser](https://blog.jameslieu.co.uk/sorting-visualiser)
-- [Learn CSS by Playing Games](https://blog.saviomartin.com/learn-css-by-playing-games)
-- [20 Killer JavaScript One Liners ☝️](https://blog.saviomartin.com/20-killer-javascript-one-liners)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills 
