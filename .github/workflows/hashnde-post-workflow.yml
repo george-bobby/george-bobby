@@ -12,3 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://georgebawesome.hashnode.dev/rss.xml,https://overreacted.io/rss.xml,https://blog.saviomartin.com/rss.xml"
+          max_post_count: "10"
