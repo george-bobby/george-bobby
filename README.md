@@ -27,10 +27,8 @@
 
 <p align="center">  
 <a href="https://codepen.io/georgebawesome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="georgebawesome" height="30" width="40" /></a>  
-<a href="https://dev.to/georgebawesome" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="georgebawesome" height="30" width="40" /></a>  
 <a href="https://twitter.com/georgebawesome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="georgebawesome" height="30" width="40" /></a>  
 <a href="https://linkedin.com/in/georgebawesome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgebawesome" height="30" width="40" /></a>  
-<a href="https://fb.com/georgebawesome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="georgebawesome" height="30" width="40" /></a>  
 <a href="https://instagram.com/uitooltip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uitooltip" height="30" width="40" /></a>  
 <a href="https://dribbble.com/georgebawesome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="georgebawesome" height="30" width="40" /></a>  
 </p>  
