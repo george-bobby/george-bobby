@@ -83,7 +83,7 @@
 ## Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#69](https://github.com/jamesgeorge007/github-activity-readme/issues/69) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. ❗️ Closed issue [#69](https://github.com/jamesgeorge007/github-activity-readme/issues/69) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 ## Love my Work?
