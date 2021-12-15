@@ -50,6 +50,8 @@
 ## StackExchange Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by George Bobby for Why this error come when useing npx create-react-app my-app?](https://stackoverflow.com/questions/67455023/why-this-error-come-when-useing-npx-create-react-app-my-app/67458220#67458220)
+- [Why this error come when useing npx create-react-app my-app?](https://stackoverflow.com/questions/67455023/why-this-error-come-when-useing-npx-create-react-app-my-app)
 <!-- STACKOVERFLOW:END -->
 
 ## &#x1f4c8; GitHub Stats
