@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "STACKOVERFLOW"
           commit_message: "Updated readme with the latest stackExchange data"
-          feed_list: "https://stackexchange.com/users/20451314"
+          feed_list: "https://stackoverflow.com/feeds/user/20451314"
