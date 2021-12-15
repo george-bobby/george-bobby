@@ -36,6 +36,11 @@
 ## Posts from my fav Blogs
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn CSS by Playing Games](https://blog.saviomartin.com/learn-css-by-playing-games)
+- [20 Killer JavaScript One Liners ☝️](https://blog.saviomartin.com/20-killer-javascript-one-liners)
+- [Introducing Styler - The Next Generation CSS Builder ⚡️](https://blog.saviomartin.com/styler)
+- [Introducing Slickr - Powerful Cover Image generator ✨️](https://blog.saviomartin.com/introducing-slickr-powerful-cover-image-generator)
+- [npm audit: Broken by Design](https://overreacted.io/npm-audit-broken-by-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills 
