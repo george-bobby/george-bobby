@@ -88,7 +88,7 @@
 
 ## Now Playing
 
-[![Spotify](https://now-playing-technically-tony.vercel.app/api/spotify)](https://open.spotify.com/user/cjxcp001npcxkfkoeloaj3yb5)
+[![Spotify](https://georgebawesome-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/cjxcp001npcxkfkoeloaj3yb5)
 
 ## Love my Work?
 
