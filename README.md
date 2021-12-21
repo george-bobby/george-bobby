@@ -83,7 +83,7 @@
 ## Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#69](https://github.com/jamesgeorge007/github-activity-readme/issues/69) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. ❗️ Opened issue [#17](https://github.com/matchai/bird-box/issues/17) in [matchai/bird-box](https://github.com/matchai/bird-box)
 <!--END_SECTION:activity-->
 
 ## Now Playing
