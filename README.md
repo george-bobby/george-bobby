@@ -88,7 +88,9 @@
 
 ## Now Playing
 
+<p align="center"> 
 [![Spotify](https://georgebawesome-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/cjxcp001npcxkfkoeloaj3yb5)
+</p>
 
 ## Love my Work?
 
