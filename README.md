@@ -88,19 +88,11 @@
 
 ## Now Playing
 
-<p align="center"> 
 [![Spotify](https://georgebawesome-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/cjxcp001npcxkfkoeloaj3yb5)
-</p>
+
 
 ## Love my Work?
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/georgebawesome" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"  style="border-radius: 20px;"></a>
-</p> -
-
-
-## Love my Work?
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/georgebawesome" target="_blank"><img src="https://georgebawesome-spotify.vercel.app/api/spotify" alt="Buy Me A Coffee" width="200"  style="border-radius: 20px;"></a>
-</p> -
+</p>
