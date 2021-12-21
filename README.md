@@ -86,6 +86,10 @@
 1. ❗️ Closed issue [#69](https://github.com/jamesgeorge007/github-activity-readme/issues/69) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
+## Now Playing
+
+[![Spotify](https://now-playing-technically-tony.vercel.app/api/spotify)](https://open.spotify.com/user/316ynimwepp7athpqi6d3l3a54ey)
+
 ## Love my Work?
 
 <p align="center">
