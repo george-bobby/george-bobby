@@ -83,7 +83,7 @@
 ## Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/matchai/bird-box/issues/17) in [matchai/bird-box](https://github.com/matchai/bird-box)
+1. 🎉 Merged PR [#12](https://github.com/georgebawesome/react-starter/pull/12) in [georgebawesome/react-starter](https://github.com/georgebawesome/react-starter)
 <!--END_SECTION:activity-->
 
 ## Now Playing
