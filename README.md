@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-  <a href="https://activity-graph.herokuapp.com/graph?username=georgebawesome">
+  <a href="https://activity-graph.herokuapp.com/graph?username=georgebawesome&custom_title=GEorge's%20Activity%20Graph&theme=github-light&hide_border=true">
     <img src="https://activity-graph.herokuapp.com/graph?username=georgebawesome">
   </a>
 </p>
