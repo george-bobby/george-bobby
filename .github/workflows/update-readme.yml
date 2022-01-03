@@ -1,9 +1,9 @@
-name: update-gh-activity
+name: Update GH Activity
 
 on:
   schedule:
     - cron: '30 * * * *'
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
 jobs:
   build:
     runs-on: ubuntu-latest
