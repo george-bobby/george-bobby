@@ -152,6 +152,8 @@ No Activity Tracked This Week
 1. 🎉 Merged PR [#12](https://github.com/georgebawesome/react-starter/pull/12) in [georgebawesome/react-starter](https://github.com/georgebawesome/react-starter)
 <!--END_SECTION:activity-->
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@b405d467-5234-4e89-9c30-8e00000477b5/c57225bb-4cfc-4a8f-8bf1-5787c45b394c.png" /></a>
+
 ## Now Playing
 
 [![Spotify](https://georgebawesome-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/cjxcp001npcxkfkoeloaj3yb5)
