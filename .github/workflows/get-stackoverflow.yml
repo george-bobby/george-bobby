@@ -7,12 +7,12 @@ on:
   
 jobs:
   update-readme-with-stack-overflow:
-    name: Update this repo's README with latest activity from StackOverflow
+    name: Update this repo's README with latest activity from stackoverflow
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "STACKOVERFLOW"
-          commit_message: "Updated readme with the latest stackOverflow data"
+          commit_message: "Updated readme with the latest stackoverflow data"
           feed_list: "https://stackoverflow.com/feeds/user/15006028"
