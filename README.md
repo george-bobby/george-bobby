@@ -90,6 +90,10 @@
 
 [![Spotify](https://georgebawesome-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/cjxcp001npcxkfkoeloaj3yb5)
 
+## You just got jokes, ain'tchu?
+
+<!-- HTML -->
+<img align="center" src="https://readme-jokes.vercel.app/api?hideBorder&theme=solidBlue" alt="Jokes Card" />
 
 ## Love my Work?
 
