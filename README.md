@@ -80,6 +80,11 @@
   </a>
 </p>
 
+## What I'm upto...
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Activity
 
 <!--START_SECTION:activity-->
