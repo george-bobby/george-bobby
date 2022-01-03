@@ -79,6 +79,9 @@
 </p>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#12](https://github.com/georgebawesome/react-starter/pull/12) in [georgebawesome/react-starter](https://github.com/georgebawesome/react-starter)
+2. 🎉 Merged PR [#9](https://github.com/georgebawesome/react-starter/pull/9) in [georgebawesome/react-starter](https://github.com/georgebawesome/react-starter)
+3. ❗️ Opened issue [#17](https://github.com/matchai/bird-box/issues/17) in [matchai/bird-box](https://github.com/matchai/bird-box)
 <!--END_SECTION:activity-->
 
 ## What I'm upto...
