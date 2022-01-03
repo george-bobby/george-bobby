@@ -1,4 +1,4 @@
-name: Latest stack overflow activity
+name: Get Stackoverflow Activity
 on:
   schedule:
     # Run every hour
