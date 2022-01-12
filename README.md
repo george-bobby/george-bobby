@@ -145,7 +145,3 @@ vanilla-todo             0 secs              ░░░░░░░░░░░�
 <p align="center">
 <a href="https://www.buymeacoffee.com/georgebawesome" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"  style="border-radius: 20px;"></a>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
