@@ -34,16 +34,16 @@
 ## Posts from my fav blogs...
 
 <!-- BLOG-POST-LIST:START -->
-- [npm audit: Broken by Design](https://overreacted.io/npm-audit-broken-by-design/)
-- [Before You memo&lpar;&rpar;](https://overreacted.io/before-you-memo/)
-- [The WET Codebase](https://overreacted.io/the-wet-codebase/)
-- [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)
-- [My Decade in Review](https://overreacted.io/my-decade-in-review/)
-- [What Are the React Team Principles?](https://overreacted.io/what-are-the-react-team-principles/)
-- [On let vs const](https://overreacted.io/on-let-vs-const/)
-- [What Is JavaScript Made Of?](https://overreacted.io/what-is-javascript-made-of/)
-- [How Does the Development Mode Work?](https://overreacted.io/how-does-the-development-mode-work/)
-- [Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
+- [Learn CSS by Playing Games](https://blog.saviomartin.com/learn-css-by-playing-games)
+- [20 Killer JavaScript One Liners ☝️](https://blog.saviomartin.com/20-killer-javascript-one-liners)
+- [Introducing Styler - The Next Generation CSS Builder ⚡️](https://blog.saviomartin.com/styler)
+- [Introducing Slickr - Powerful Cover Image generator ✨️](https://blog.saviomartin.com/introducing-slickr-powerful-cover-image-generator)
+- [Introducing Code House - Biggest Store of Cheat sheets 👨‍💻](https://blog.saviomartin.com/introducing-code-house-biggest-store-of-cheat-sheets)
+- [Create a Search Filter in React from Scratch 🔎](https://blog.saviomartin.com/create-a-search-filter-in-react-from-scratch)
+- [Setup Email Authentication with Reset option in React App 🚀](https://blog.saviomartin.com/setup-email-authentication-with-reset-option-in-react-app)
+- [Setup Phone Authentication with OTP in your React App 🚀](https://blog.saviomartin.com/setup-phone-authentication-with-otp-in-your-react-app)
+- [Create a Dark Mode toggler with Tailwind ⚡️](https://blog.saviomartin.com/create-a-dark-mode-toggler-with-tailwind)
+- [Set Up Tailwind JIT In React - The fastest way! 🚀](https://blog.saviomartin.com/set-up-tailwind-jit-in-react-the-fastest-way)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 What I'm good at... 
