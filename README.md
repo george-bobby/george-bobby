@@ -116,15 +116,15 @@ Sunday       69 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-frameworks [GitHub]      3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 31/01/2022 01:52:45 UTC
+ Last Updated on 01/02/2022 01:58:28 UTC
 <!--END_SECTION:waka-->
 
 ## What I'm listening...
