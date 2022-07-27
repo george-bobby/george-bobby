@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm George Bobby</h1>  
 <h3 align="center">A self-taught developer who loves React and PHP(Wordpress)</h3>  
   
-<p align="center"> <img src="https://avatars.githubusercontent.com/u/74462795?v=4" alt="georgebawesome" /> </p>  
-
 <p align="center"> <a href="https://twitter.com/georgebawesome" target="blank"><img src="https://img.shields.io/twitter/follow/georgebawesome?logo=twitter&style=for-the-badge" alt="georgebawesome" /></a> </p>  
   
 - 🔭 I’m currently working on [GetJam](https://joju.cf/)  
