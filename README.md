@@ -77,8 +77,8 @@
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/georgebawesome/react-tailwind/pull/1) in [georgebawesome/react-tailwind](https://github.com/georgebawesome/react-tailwind)
-2. 🎉 Merged PR [#12](https://github.com/georgebawesome/react-starter/pull/12) in [georgebawesome/react-starter](https://github.com/georgebawesome/react-starter)
+1. 🎉 Merged PR [#1](https://github.com/georgebawesome/rosid-server/pull/1) in [georgebawesome/rosid-server](https://github.com/georgebawesome/rosid-server)
+2. 🎉 Merged PR [#1](https://github.com/georgebawesome/react-tailwind/pull/1) in [georgebawesome/react-tailwind](https://github.com/georgebawesome/react-tailwind)
 3. 🎉 Merged PR [#9](https://github.com/georgebawesome/react-starter/pull/9) in [georgebawesome/react-starter](https://github.com/georgebawesome/react-starter)
 <!--END_SECTION:activity-->
 
