@@ -79,7 +79,7 @@
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com/georgebawesome/georgebawesome/pull/1) in [georgebawesome/georgebawesome](https://github.com/georgebawesome/georgebawesome)
 2. ❌ Closed PR [#2](https://github.com/georgebawesome/georgebawesome/pull/2) in [georgebawesome/georgebawesome](https://github.com/georgebawesome/georgebawesome)
-3. ❗️ Closed issue [#4](https://github.com/georgebawesome/edusitehost.org/issues/4) in [georgebawesome/edusitehost.org](https://github.com/georgebawesome/edusitehost.org)
+3. ❗️ Closed issue [#17](https://github.com/matchai/bird-box/issues/17) in [matchai/bird-box](https://github.com/matchai/bird-box)
 <!--END_SECTION:activity-->
 
 ## What I'm upto...
