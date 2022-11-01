@@ -85,12 +85,46 @@
 ## What I'm upto...
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2043%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-764%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-797%20Thousand%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    111 commits    █████████░░░░░░░░░░░░░░░░   37.12% 
+🌆 Daytime    152 commits    ████████████░░░░░░░░░░░░░   50.84% 
+🌃 Evening    27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.03% 
+🌙 Night      9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.01%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Tuesday      40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.38% 
+Wednesday    61 commits     █████░░░░░░░░░░░░░░░░░░░░   20.4% 
+Thursday     27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.03% 
+Friday       27 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.03% 
+Saturday     41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
+Sunday       57 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.06%
+
+```
 
 
- Last Updated on 04/09/2022 10:16:32 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 01/11/2022 03:33:13 UTC
 <!--END_SECTION:waka-->
 
 ## What I'm listening...
