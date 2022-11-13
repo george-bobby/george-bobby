@@ -32,16 +32,16 @@
 ## Posts from my fav blogs...
 
 <!-- BLOG-POST-LIST:START -->
-- [npm audit: Broken by Design](https://overreacted.io/npm-audit-broken-by-design/)
-- [Before You memo&lpar;&rpar;](https://overreacted.io/before-you-memo/)
-- [The WET Codebase](https://overreacted.io/the-wet-codebase/)
-- [Goodbye, Clean Code](https://overreacted.io/goodbye-clean-code/)
-- [My Decade in Review](https://overreacted.io/my-decade-in-review/)
-- [What Are the React Team Principles?](https://overreacted.io/what-are-the-react-team-principles/)
-- [On let vs const](https://overreacted.io/on-let-vs-const/)
-- [What Is JavaScript Made Of?](https://overreacted.io/what-is-javascript-made-of/)
-- [How Does the Development Mode Work?](https://overreacted.io/how-does-the-development-mode-work/)
-- [Algebraic Effects for the Rest of Us](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
+- [Amazon’s New Robot Sparrow Can Handle Most Items in the Everything Store](https://www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/)
+- [Google Expands Flood and Wildfire Tracking to More Countries](https://www.wired.com/story/google-ai-wildfire-flood-tracking/)
+- [Elon Musk Has Fired Twitter’s ‘Ethical AI’ Team](https://www.wired.com/story/twitter-ethical-ai-team/)
+- [Algorithms Quietly Run the City of Washington, DC—and Maybe Your Hometown](https://www.wired.com/story/algorithms-quietly-run-the-city-of-dc-and-maybe-your-hometown/)
+- [Europe Prepares to Rewrite the Rules of the Internet](https://www.wired.com/story/europe-dma-prepares-to-rewrite-the-rules-of-the-internet/)
+- [AI&#39;s New Creative Streak Sparks a Silicon Valley Gold Rush](https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/)
+- [Hinge Will Try to Thwart Scammers With Video Verification](https://www.wired.com/story/hinge-selfie-verification-scammers-bots/)
+- [The Bruce Willis Deepfake Is Everyone’s Problem](https://www.wired.com/story/bruce-willis-deepfake-rights-law/)
+- [AI Shouldn’t Compete With Workers—It Should Supercharge Them](https://www.wired.com/story/ai-shouldnt-compete-with-workers-it-should-supercharge-them-turing-trap/)
+- [US Chip Sanctions ‘Kneecap’ China’s Tech Industry](https://www.wired.com/story/us-chip-sanctions-kneecap-chinas-tech-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 What I'm good at... 
