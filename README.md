@@ -32,16 +32,16 @@
 ## Posts from my fav blogs...
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon’s New Robot Sparrow Can Handle Most Items in the Everything Store](https://www.wired.com/story/amazons-new-robot-sparrow-can-handle-most-items-in-the-everything-store/)
-- [Google Expands Flood and Wildfire Tracking to More Countries](https://www.wired.com/story/google-ai-wildfire-flood-tracking/)
-- [Elon Musk Has Fired Twitter’s ‘Ethical AI’ Team](https://www.wired.com/story/twitter-ethical-ai-team/)
-- [Algorithms Quietly Run the City of Washington, DC—and Maybe Your Hometown](https://www.wired.com/story/algorithms-quietly-run-the-city-of-dc-and-maybe-your-hometown/)
-- [Europe Prepares to Rewrite the Rules of the Internet](https://www.wired.com/story/europe-dma-prepares-to-rewrite-the-rules-of-the-internet/)
-- [AI&#39;s New Creative Streak Sparks a Silicon Valley Gold Rush](https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/)
-- [Hinge Will Try to Thwart Scammers With Video Verification](https://www.wired.com/story/hinge-selfie-verification-scammers-bots/)
-- [The Bruce Willis Deepfake Is Everyone’s Problem](https://www.wired.com/story/bruce-willis-deepfake-rights-law/)
-- [AI Shouldn’t Compete With Workers—It Should Supercharge Them](https://www.wired.com/story/ai-shouldnt-compete-with-workers-it-should-supercharge-them-turing-trap/)
-- [US Chip Sanctions ‘Kneecap’ China’s Tech Industry](https://www.wired.com/story/us-chip-sanctions-kneecap-chinas-tech-industry/)
+- [A World-Class Code Playground with Sandpack](https://www.joshwcomeau.com/react/next-level-playground/)
+- [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
+- [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
+- [Statements Vs. Expressions](https://www.joshwcomeau.com/javascript/statements-vs-expressions/)
+- [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/)
+- [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
+- [You Don’t Need a UI Framework](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/)
+- [The Front-End Developer&#39;s Guide to the Terminal](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/)
+- [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
+- [Delightful React File/Directory Structure](https://www.joshwcomeau.com/react/file-structure/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 What I'm good at... 
