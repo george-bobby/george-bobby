@@ -11,5 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://georgebawesome.hashnode.dev/rss.xml,https://overreacted.io/rss.xml,https://www.rubicly.com/category/content-creation/feed/,https://www.wired.com/feed/tag/ai/latest/rss,https://www.joshwcomeau.com/rss.xml"
+          feed_list: "https://georgebawesome.hashnode.dev/rss.xml,https://overreacted.io/rss.xml,https://www.rubicly.com/category/content-creation/feed/,https://www.joshwcomeau.com/rss.xml"
           max_post_count: "10"
