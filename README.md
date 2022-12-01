@@ -32,16 +32,16 @@
 ## Posts from my fav blogs...
 
 <!-- BLOG-POST-LIST:START -->
-- [A World-Class Code Playground with Sandpack](https://www.joshwcomeau.com/react/next-level-playground/)
-- [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
-- [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
-- [Statements Vs. Expressions](https://www.joshwcomeau.com/javascript/statements-vs-expressions/)
-- [My Wonderful HTML Email Workflow](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/)
+- [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
 - [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
-- [You Don’t Need a UI Framework](https://www.smashingmagazine.com/2022/05/you-dont-need-ui-framework/)
-- [The Front-End Developer&#39;s Guide to the Terminal](https://www.joshwcomeau.com/javascript/terminal-for-js-devs/)
-- [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
-- [Delightful React File/Directory Structure](https://www.joshwcomeau.com/react/file-structure/)
+- [My Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
+- [CSS Variables for React Devs](https://www.joshwcomeau.com/css/css-variables-for-react-devs/)
+- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+- [The Importance of Learning CSS](https://www.joshwcomeau.com/css/the-importance-of-learning-css/)
+- [Refreshing Server-Side Props](https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/)
+- [Designing Beautiful Shadows in CSS](https://www.joshwcomeau.com/css/designing-shadows/)
+- [An Interactive Guide to CSS Transitions](https://www.joshwcomeau.com/animation/css-transitions/)
+- [A World-Class Code Playground with Sandpack](https://www.joshwcomeau.com/react/next-level-playground/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 What I'm good at... 
