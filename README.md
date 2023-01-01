@@ -33,15 +33,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
+- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+- [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
 - [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
 - [My Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
 - [CSS Variables for React Devs](https://www.joshwcomeau.com/css/css-variables-for-react-devs/)
-- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 - [The Importance of Learning CSS](https://www.joshwcomeau.com/css/the-importance-of-learning-css/)
 - [Refreshing Server-Side Props](https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/)
 - [Designing Beautiful Shadows in CSS](https://www.joshwcomeau.com/css/designing-shadows/)
 - [An Interactive Guide to CSS Transitions](https://www.joshwcomeau.com/animation/css-transitions/)
-- [A World-Class Code Playground with Sandpack](https://www.joshwcomeau.com/react/next-level-playground/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 What I'm good at... 
