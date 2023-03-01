@@ -32,6 +32,8 @@
 ## Posts from my fav blogs...
 
 <!-- BLOG-POST-LIST:START -->
+- [The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
+- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 - [Data Binding in React](https://www.joshwcomeau.com/react/data-binding/)
 - [A World-Class Code Playground with Sandpack](https://www.joshwcomeau.com/react/next-level-playground/)
 - [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
@@ -39,9 +41,7 @@
 - [Announcing “use-sound”, a React Hook for Sound Effects](https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/)
 - [The Perils of Rehydration](https://www.joshwcomeau.com/react/the-perils-of-rehydration/)
 - [Clever Code Considered Harmful](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)
-- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 - [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
-- [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 What I'm good at... 
