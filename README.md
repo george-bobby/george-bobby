@@ -32,16 +32,16 @@
 ## Posts from my fav blogs...
 
 <!-- BLOG-POST-LIST:START -->
+- [The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
+- [Data Binding in React](https://www.joshwcomeau.com/react/data-binding/)
+- [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/)
 - [The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
 - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
-- [Data Binding in React](https://www.joshwcomeau.com/react/data-binding/)
 - [A World-Class Code Playground with Sandpack](https://www.joshwcomeau.com/react/next-level-playground/)
 - [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
 - [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
 - [Announcing “use-sound”, a React Hook for Sound Effects](https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/)
 - [The Perils of Rehydration](https://www.joshwcomeau.com/react/the-perils-of-rehydration/)
-- [Clever Code Considered Harmful](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)
-- [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 What I'm good at... 
