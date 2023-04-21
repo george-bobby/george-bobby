@@ -9,7 +9,7 @@
   
 - 👯 I’m looking to collaborate on [QnsAI](https://qnsai-v2.vercel.app/)  
   
-- 👨‍💻 All of my projects are available at [my portfolio](https://georgebobby.vercel.app/)  
+- 👨‍💻 All of my projects are available at [my portfolio](https://georgebobby.netlify.app/)  
   
 - 📝 I irregularly write articles on [HashNode](https://georgebawesome.hashnode.dev/)  
   
