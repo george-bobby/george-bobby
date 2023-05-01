@@ -32,6 +32,8 @@
 ## Posts from my fav blogs...
 
 <!-- BLOG-POST-LIST:START -->
+- [The Perils of Hydration](https://www.joshwcomeau.com/react/the-perils-of-rehydration/)
+- [The “const” Deception](https://www.joshwcomeau.com/javascript/the-const-deception/)
 - [The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
 - [Data Binding in React](https://www.joshwcomeau.com/react/data-binding/)
 - [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/)
@@ -40,8 +42,6 @@
 - [A World-Class Code Playground with Sandpack](https://www.joshwcomeau.com/react/next-level-playground/)
 - [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
 - [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
-- [Announcing “use-sound”, a React Hook for Sound Effects](https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/)
-- [The Perils of Rehydration](https://www.joshwcomeau.com/react/the-perils-of-rehydration/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 What I'm working at... 
