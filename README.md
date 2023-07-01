@@ -32,16 +32,16 @@
 ## Posts from my fav blogs...
 
 <!-- BLOG-POST-LIST:START -->
+- [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
+- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+- [The “const” Deception](https://www.joshwcomeau.com/javascript/the-const-deception/)
+- [My Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
+- [Animated Pride Flags](https://www.joshwcomeau.com/animation/pride-flags/)
+- [Magical Rainbow Gradients](https://www.joshwcomeau.com/react/rainbow-button/)
 - [Hands-Free Coding](https://www.joshwcomeau.com/blog/hands-free-coding/)
 - [The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
 - [The Perils of Hydration](https://www.joshwcomeau.com/react/the-perils-of-rehydration/)
-- [The “const” Deception](https://www.joshwcomeau.com/javascript/the-const-deception/)
 - [Data Binding in React](https://www.joshwcomeau.com/react/data-binding/)
-- [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/)
-- [The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
-- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
-- [A World-Class Code Playground with Sandpack](https://www.joshwcomeau.com/react/next-level-playground/)
-- [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 What I'm working at... 
