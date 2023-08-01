@@ -32,6 +32,8 @@
 ## Posts from my fav blogs...
 
 <!-- BLOG-POST-LIST:START -->
+- [Why My Blog is Closed-Source](https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/)
+- [A Friendly Introduction to Spring Physics](https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/)
 - [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
 - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 - [The “const” Deception](https://www.joshwcomeau.com/javascript/the-const-deception/)
@@ -40,8 +42,6 @@
 - [Magical Rainbow Gradients](https://www.joshwcomeau.com/react/rainbow-button/)
 - [Hands-Free Coding](https://www.joshwcomeau.com/blog/hands-free-coding/)
 - [The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
-- [The Perils of Hydration](https://www.joshwcomeau.com/react/the-perils-of-rehydration/)
-- [Data Binding in React](https://www.joshwcomeau.com/react/data-binding/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 What I'm working at... 
