@@ -32,6 +32,7 @@
 ## Posts from my fav blogs...
 
 <!-- BLOG-POST-LIST:START -->
+- [The Perils of Hydration](https://www.joshwcomeau.com/react/the-perils-of-rehydration/)
 - [Why My Blog is Closed-Source](https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/)
 - [A Friendly Introduction to Spring Physics](https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/)
 - [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
@@ -41,7 +42,6 @@
 - [Animated Pride Flags](https://www.joshwcomeau.com/animation/pride-flags/)
 - [Magical Rainbow Gradients](https://www.joshwcomeau.com/react/rainbow-button/)
 - [Hands-Free Coding](https://www.joshwcomeau.com/blog/hands-free-coding/)
-- [The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 What I'm working at... 
