@@ -32,16 +32,16 @@
 ## Posts from my fav blogs...
 
 <!-- BLOG-POST-LIST:START -->
-- [The Perils of Hydration](https://www.joshwcomeau.com/react/the-perils-of-rehydration/)
-- [Why My Blog is Closed-Source](https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/)
-- [A Friendly Introduction to Spring Physics](https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/)
-- [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
-- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
-- [The “const” Deception](https://www.joshwcomeau.com/javascript/the-const-deception/)
-- [My Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
-- [Animated Pride Flags](https://www.joshwcomeau.com/animation/pride-flags/)
-- [Magical Rainbow Gradients](https://www.joshwcomeau.com/react/rainbow-button/)
-- [Hands-Free Coding](https://www.joshwcomeau.com/blog/hands-free-coding/)
+- [Understanding the JavaScript Modulo Operator](https://www.joshwcomeau.com/javascript/modulo-operator/)
+- [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
+- [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/)
+- [Data Binding in React](https://www.joshwcomeau.com/react/data-binding/)
+- [A World-Class Code Playground with Sandpack](https://www.joshwcomeau.com/react/next-level-playground/)
+- [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
+- [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
+- [Statements Vs. Expressions](https://www.joshwcomeau.com/javascript/statements-vs-expressions/)
+- [Delightful React File/Directory Structure](https://www.joshwcomeau.com/react/file-structure/)
+- [Announcing “use-sound”, a React Hook for Sound Effects](https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 What I'm working at... 
