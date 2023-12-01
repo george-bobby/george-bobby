@@ -32,16 +32,16 @@
 ## Posts from my fav blogs...
 
 <!-- BLOG-POST-LIST:START -->
+- [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
+- [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
+- [Full-Bleed Layout Using CSS Grid](https://www.joshwcomeau.com/css/full-bleed/)
+- [Hands-Free Coding](https://www.joshwcomeau.com/blog/hands-free-coding/)
+- [The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
 - [Understanding the JavaScript Modulo Operator](https://www.joshwcomeau.com/javascript/modulo-operator/)
 - [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
 - [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/)
 - [Data Binding in React](https://www.joshwcomeau.com/react/data-binding/)
 - [A World-Class Code Playground with Sandpack](https://www.joshwcomeau.com/react/next-level-playground/)
-- [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
-- [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
-- [Statements Vs. Expressions](https://www.joshwcomeau.com/javascript/statements-vs-expressions/)
-- [Delightful React File/Directory Structure](https://www.joshwcomeau.com/react/file-structure/)
-- [Announcing “use-sound”, a React Hook for Sound Effects](https://www.joshwcomeau.com/react/announcing-use-sound-react-hook/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 What I'm working at... 
