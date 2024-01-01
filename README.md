@@ -32,6 +32,8 @@
 ## Posts from my fav blogs...
 
 <!-- BLOG-POST-LIST:START -->
+- [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
+- [A Chain Reaction](https://overreacted.io/a-chain-reaction/)
 - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 - [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
 - [Full-Bleed Layout Using CSS Grid](https://www.joshwcomeau.com/css/full-bleed/)
@@ -40,8 +42,6 @@
 - [Understanding the JavaScript Modulo Operator](https://www.joshwcomeau.com/javascript/modulo-operator/)
 - [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
 - [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/)
-- [Data Binding in React](https://www.joshwcomeau.com/react/data-binding/)
-- [A World-Class Code Playground with Sandpack](https://www.joshwcomeau.com/react/next-level-playground/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 What I'm working at... 
