@@ -32,6 +32,8 @@
 ## Posts from my fav blogs...
 
 <!-- BLOG-POST-LIST:START -->
+- [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
+- [The Two Reacts](https://overreacted.io/the-two-reacts/)
 - [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
 - [A Chain Reaction](https://overreacted.io/a-chain-reaction/)
 - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
@@ -40,8 +42,6 @@
 - [Hands-Free Coding](https://www.joshwcomeau.com/blog/hands-free-coding/)
 - [The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
 - [Understanding the JavaScript Modulo Operator](https://www.joshwcomeau.com/javascript/modulo-operator/)
-- [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
-- [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 What I'm working at... 
