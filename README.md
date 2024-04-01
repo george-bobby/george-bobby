@@ -32,16 +32,16 @@
 ## Posts from my fav blogs...
 
 <!-- BLOG-POST-LIST:START -->
+- [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
+- [Demystifying styled-components](https://www.joshwcomeau.com/react/demystifying-styled-components/)
+- [How I Built My Blog](https://www.joshwcomeau.com/blog/how-i-built-my-blog/)
+- [Folding the DOM](https://www.joshwcomeau.com/react/folding-the-dom/)
 - [A World-Class Code Playground with Sandpack](https://www.joshwcomeau.com/react/next-level-playground/)
 - [Delightful React File/Directory Structure](https://www.joshwcomeau.com/react/file-structure/)
 - [CSS Variables for React Devs](https://www.joshwcomeau.com/css/css-variables-for-react-devs/)
 - [Magical Rainbow Gradients](https://www.joshwcomeau.com/react/rainbow-button/)
 - [How To Center a Div](https://www.joshwcomeau.com/css/center-a-div/)
 - [The Rules of Margin Collapse](https://www.joshwcomeau.com/css/rules-of-margin-collapse/)
-- [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
-- [The Two Reacts](https://overreacted.io/the-two-reacts/)
-- [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
-- [A Chain Reaction](https://overreacted.io/a-chain-reaction/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 What I'm working at... 
