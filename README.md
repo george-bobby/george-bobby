@@ -65,6 +65,7 @@
 3. ❗️ Closed issue [#17](https://github.com/matchai/bird-box/issues/17) in [matchai/bird-box](https://github.com/matchai/bird-box)
 <!--END_SECTION:activity-->
 <br/>
+
 ## 👨‍💻 Tools and Frameworks  
 
 <table>
