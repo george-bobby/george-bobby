@@ -1,6 +1,7 @@
 name: Get New Posts
 on:
-  schedule: # Run workflow weekly once
+  schedule: 
+    # Run every week
     - cron: '0 0 * * 1' 
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
