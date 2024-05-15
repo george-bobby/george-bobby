@@ -6,7 +6,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/george-bobby" target="_blank">
-<img src=https://komarev.com/ghpvc/?username=george-bobby&style=for-the-badge&color=blueviolet&label=GITHUB+STALKERS />
+<img src=https://komarev.com/ghpvc/?username=george-bobby&style=for-the-badge&color=blueviolet&label=GITHUB+VISITORS />
 </a>
 </div>
 
