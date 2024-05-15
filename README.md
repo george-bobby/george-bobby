@@ -31,16 +31,16 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
+- [Getting ready for React Conf next week](https://react.statuscode.com/issues/384)
+- [It&#39;s React 19! Almost.](https://react.statuscode.com/issues/383)
+- [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
+- [Three hours of modern React](https://react.statuscode.com/issues/382)
+- [React 18.3 and faster JSX are on the way](https://react.statuscode.com/issues/381)
 - [CSS in React Server Components](https://www.joshwcomeau.com/react/css-in-rsc/)
 - [The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
 - [The styled-components Happy Path](https://www.joshwcomeau.com/css/styled-components/)
 - [A Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
-- [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
-- [Demystifying styled-components](https://www.joshwcomeau.com/react/demystifying-styled-components/)
-- [How I Built My Blog](https://www.joshwcomeau.com/blog/how-i-built-my-blog/)
-- [Folding the DOM](https://www.joshwcomeau.com/react/folding-the-dom/)
-- [A World-Class Code Playground with Sandpack](https://www.joshwcomeau.com/react/next-level-playground/)
-- [Delightful React File/Directory Structure](https://www.joshwcomeau.com/react/file-structure/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
