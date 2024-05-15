@@ -1,37 +1,40 @@
-<h1 align="center">Hi 👋, I'm George Bobby</h1>  
-<h3 align="center">Freak in the Sheets / MERN Dev</h3>  
+<h1 align="center">Hey 👋, George Here</h1>  
+<h3 align="center">Developer who loves to Design</h3>  
 
+<!-- <div align="center"> -->
+<!--<img src="https://raw.githubusercontent.com/george-bobby/george-bobby/output/snake.svg" alt="Snake animation" /> -->
+<!-- </div> -->
+ 
 <div align="center">
-<img src="https://raw.githubusercontent.com/george-bobby/george-bobby/output/snake.svg" alt="Snake animation" />
+<a href="https://linkedin.com/in/george-bobby" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/george-bobby" target="_blank">
+<img src=https://komarev.com/ghpvc/?username=george-bobby&style=for-the-badge&color=blueviolet&label=GITHUB+STALKERS />
+</a>
 </div>
+
+<br/>  
+
+## 💼 See My Works 
   
-<p align="center"> <a href="https://www.linkedin.com/in/george-bobby/" target="blank"><img src="https://img.shields.io/twitter/follow/georgebawesome?logo=linkedin&style=for-the-badge" alt="georgebawesome" /></a> </p>  
-  
-- 🔭 I’m currently working on [GetJam](https://getjam-v2.vercel.app/)  
-  
-- 🌱 I’m currently learning to be [MERN Stack](https://www.mongodb.com/mern-stack)
-  
-- 👯 I’m looking to collaborate on [QnsAI](https://qnsai.vercel.app/)  
-  
-- 👨‍💻 All of my projects are available at [my portfolio](https://georgebobby.vercel.app/)  
+- 👨‍💻 All of my projects are in [my portfolio](https://georgebobby.vercel.app/)  
   
 - 📝 I irregularly write articles on [HashNode](https://georgebobby.hashnode.dev/)  
   
 - 📫 Reach me via **mailto.georgebobby@gmail.com**  
   
-- 📄 Know about my experiences in [my resume](https://www.linkedin.com/in/george-bobby/)  
+- 📄 Know about my experiences in [my resume](https://drive.google.com/file/d/1aK68o05lFY738pd95BWMpOxGIOVposaR/view?usp=drive_link)  
   
 - ⚡ Fun fact **I hate tickling**
 
-## Connect with me 
-<div align="center">
-<a href="https://linkedin.com/in/george-bobby" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>
-<br/>  
+- 🔭 I’m currently working on [GetJam](https://getjam-v2.vercel.app/)  
+  
+- 🌱 I’m currently learning to be [MERN Stack](https://www.mongodb.com/mern-stack)
+  
+- 👯 I’m looking to collaborate on [QnsAI](https://qnsai.vercel.app/)  
 
-## Posts I read Recently...
+## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [CSS in React Server Components](https://www.joshwcomeau.com/react/css-in-rsc/)
@@ -46,12 +49,26 @@
 - [Delightful React File/Directory Structure](https://www.joshwcomeau.com/react/file-structure/)
 <!-- BLOG-POST-LIST:END -->
 
-## 💼 What I'm working at... 
+## 📊 View GitHub Stats
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=george-bobby&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-bobby&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</div>
 
+<br/>
 
+<!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/georgebawesome/georgebawesome/pull/1) in [georgebawesome/georgebawesome](https://github.com/georgebawesome/georgebawesome)
+2. ❌ Closed PR [#2](https://github.com/georgebawesome/georgebawesome/pull/2) in [georgebawesome/georgebawesome](https://github.com/georgebawesome/georgebawesome)
+3. ❗️ Closed issue [#17](https://github.com/matchai/bird-box/issues/17) in [matchai/bird-box](https://github.com/matchai/bird-box)
+<!--END_SECTION:activity-->
+
+## 👨‍💻 Tools and Frameworks  
+
+<table>
+<tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -67,8 +84,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
@@ -83,9 +98,7 @@
 
 </td><td valign="top" width="33%">
 
-
-
-### DevOps  
+### Others  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
@@ -97,14 +110,12 @@
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr>
+</table>  
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=cjxcp001npcxkfkoeloaj3yb5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>
-<br />
-
-## What I'm doing on StackExchange...
+## 👯 See StackExchange Actvity
 
 <!-- STACKOVERFLOW:START -->
 - [Answer by George Bobby for What is represent by edges when facebook using graph data structure](https://stackoverflow.com/questions/58134083/what-is-represent-by-edges-when-facebook-using-graph-data-structure/77214632#77214632)
@@ -113,28 +124,8 @@
 - [Why this error come when useing npx create-react-app my-app?](https://stackoverflow.com/questions/67455023/why-this-error-come-when-useing-npx-create-react-app-my-app)
 <!-- STACKOVERFLOW:END -->
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=george-bobby&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=george-bobby&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=george-bobby&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/georgebawesome/georgebawesome/pull/1) in [georgebawesome/georgebawesome](https://github.com/georgebawesome/georgebawesome)
-2. ❌ Closed PR [#2](https://github.com/georgebawesome/georgebawesome/pull/2) in [georgebawesome/georgebawesome](https://github.com/georgebawesome/georgebawesome)
-3. ❗️ Closed issue [#17](https://github.com/matchai/bird-box/issues/17) in [matchai/bird-box](https://github.com/matchai/bird-box)
-<!--END_SECTION:activity-->
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=george-bobby&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=george-bobby&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-## What I'm upto...
+## 🔝 See Coding Activity 
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%2030%20mins-blue)
@@ -146,21 +137,37 @@
 <!--END_SECTION:waka-->
 
 
-## You just got jokes, ain'tchu?
+## 🏆 Leave Coding Apart  
 
-<!-- HTML -->
-<img align="center" src="https://readme-jokes.vercel.app/api?hideBorder&theme=solidBlue" alt="Jokes Card" />
+<div align="center">
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Random Dev Meme</h3>
+      <div align="center">
+        <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Turn Up Beats</h3>
+      <div align="center">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=cjxcp001npcxkfkoeloaj3yb5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
 
 
-
-## 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
-## Love my Work?
+## ❤️ Support My Work
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/georgebawesome" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"  style="border-radius: 20px;"></a>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=george-bobby&icon=6&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+
 
