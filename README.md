@@ -18,7 +18,7 @@
   
 - 👨‍💻 All of my projects are in [my portfolio](https://georgebobby.vercel.app/)  
   
-- 📝 I irregularly write articles on [HashNode](https://georgebobby.hashnode.dev/)  
+- 📝 I irregularly write articles on [my blog](https://georgebobby.hashnode.dev/)  
   
 - 📫 Reach me via **mailto.georgebobby@gmail.com**  
   
@@ -26,11 +26,11 @@
   
 - ⚡ Fun fact **I hate tickling**
 
-- 🔭 I’m currently working on [GetJam](https://getjam-v2.vercel.app/)  
+- 🔭 I’m currently working on [GetJam WhiteBoard](https://getjam-v2.vercel.app/)  
   
-- 🌱 I’m currently learning to be [MERN Stack](https://www.mongodb.com/mern-stack)
+- 🌱 I’m currently learning the [MERN Ecosystem](https://www.mongodb.com/mern-stack)
   
-- 👯 I’m looking to collaborate on [QnsAI](https://qnsai.vercel.app/)  
+- 👯 I’m looking to collaborate on [QnsAI.ML](https://qnsai.vercel.app/)  
 
 ## 📝 Recently Read Posts
 
