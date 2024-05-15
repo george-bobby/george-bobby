@@ -64,7 +64,7 @@
 2. ❌ Closed PR [#2](https://github.com/georgebawesome/georgebawesome/pull/2) in [georgebawesome/georgebawesome](https://github.com/georgebawesome/georgebawesome)
 3. ❗️ Closed issue [#17](https://github.com/matchai/bird-box/issues/17) in [matchai/bird-box](https://github.com/matchai/bird-box)
 <!--END_SECTION:activity-->
-
+<br/>
 ## 👨‍💻 Tools and Frameworks  
 
 <table>
@@ -113,8 +113,6 @@
 </td></tr>
 </table>  
 
-<br/>  
-
 ## 👯 See StackExchange Actvity
 
 <!-- STACKOVERFLOW:START -->
@@ -158,8 +156,6 @@
 </table>
 </div>
 
-
-## ❤️ Support My Work
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/georgebawesome" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"  style="border-radius: 20px;"></a>
