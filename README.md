@@ -54,9 +54,6 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3377](https://github.com/ripienaar/free-for-dev/pull/3377) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-2. ❌ Closed PR [#1](https://github.com/george-bobby/free-for-dev/pull/1) in [george-bobby/free-for-dev](https://github.com/george-bobby/free-for-dev)
-3. 🎉 Merged PR [#2](https://github.com/george-bobby/react-todo/pull/2) in [george-bobby/react-todo](https://github.com/george-bobby/react-todo)
 <!--END_SECTION:activity-->
 
 ## 👨‍💻 Tools and Frameworks  
