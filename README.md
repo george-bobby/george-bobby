@@ -14,8 +14,6 @@
 </a>
 </div>
 
-<br/>  
-
 ## 💼 See My Works 
   
 - 👨‍💻 All of my projects are in [my portfolio](https://georgebobby.vercel.app/)  
@@ -64,7 +62,6 @@
 2. ❌ Closed PR [#2](https://github.com/georgebawesome/georgebawesome/pull/2) in [georgebawesome/georgebawesome](https://github.com/georgebawesome/georgebawesome)
 3. ❗️ Closed issue [#17](https://github.com/matchai/bird-box/issues/17) in [matchai/bird-box](https://github.com/matchai/bird-box)
 <!--END_SECTION:activity-->
-<br/>
 
 ## 👨‍💻 Tools and Frameworks  
 
