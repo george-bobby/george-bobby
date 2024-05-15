@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, George Here</h1>  
-<h3 align="center">Developer who loves to Design</h3>  
+<h4 align="center">Developer who loves to Design</h4>  
  
 <div align="center">
 <a href="https://linkedin.com/in/george-bobby" target="_blank">
