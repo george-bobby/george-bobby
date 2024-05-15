@@ -16,5 +16,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           COMMIT_MSG: '⚡ Update README with the recent GH activity'
-          MAX_LINES: 5 
+          MAX_LINES: 10
+          COMMIT_NAME: GitHub Activity Readme
        
