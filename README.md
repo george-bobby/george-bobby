@@ -1,9 +1,5 @@
 <h1 align="center">Hey 👋, George Here</h1>  
 <h3 align="center">Developer who loves to Design</h3>  
-
-<!-- <div align="center"> -->
-<!--<img src="https://raw.githubusercontent.com/george-bobby/george-bobby/output/snake.svg" alt="Snake animation" /> -->
-<!-- </div> -->
  
 <div align="center">
 <a href="https://linkedin.com/in/george-bobby" target="_blank">
@@ -150,8 +146,11 @@
 <a href="https://www.buymeacoffee.com/georgebawesome" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"  style="border-radius: 20px;"></a>
 </p>
 
+## 🐍 Sizzling The Feed
 
-
+<!-- <div align="center"> -->
+<!--<img src="https://raw.githubusercontent.com/george-bobby/george-bobby/output/snake.svg" alt="Snake animation" /> -->
+<!-- </div> -->
 
 
 
