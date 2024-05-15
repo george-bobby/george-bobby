@@ -148,9 +148,9 @@
 
 ## 🐍 Sizzling The Feed
 
-<!-- <div align="center"> -->
-<!--<img src="https://raw.githubusercontent.com/george-bobby/george-bobby/output/snake.svg" alt="Snake animation" /> -->
-<!-- </div> -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/george-bobby/george-bobby/output/snake.svg" alt="Snake animation" /> 
+</div> 
 
 
 
