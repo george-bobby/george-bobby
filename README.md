@@ -131,30 +131,20 @@
 
  Last Updated on 01/02/2024 01:52:02 UTC
 <!--END_SECTION:waka-->
-
-
-## 🏆 Leave Coding Apart  
+  
+## 😜 Leave Coding Apart
 
 <div align="center">
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Random Dev Meme</h3>
-      <div align="center">
-        <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <h3>Turn Up Beats</h3>
-      <div align="center">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=cjxcp001npcxkfkoeloaj3yb5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
-      </div>
-    </td>
-  </tr>
-</table>
+  <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+</div>
+      
+## 🎧 Turn Up Beats
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=cjxcp001npcxkfkoeloaj3yb5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
 </div>
 
-
+## ❤️ Support My Work
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/georgebawesome" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"  style="border-radius: 20px;"></a>
