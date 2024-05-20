@@ -31,12 +31,12 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React Conf starts today](https://react.statuscode.com/issues/385)
 - [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
 - [Getting ready for React Conf next week](https://react.statuscode.com/issues/384)
 - [It&#39;s React 19! Almost.](https://react.statuscode.com/issues/383)
 - [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
 - [Three hours of modern React](https://react.statuscode.com/issues/382)
-- [React 18.3 and faster JSX are on the way](https://react.statuscode.com/issues/381)
 - [CSS in React Server Components](https://www.joshwcomeau.com/react/css-in-rsc/)
 - [The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
 - [The styled-components Happy Path](https://www.joshwcomeau.com/css/styled-components/)
