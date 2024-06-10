@@ -31,16 +31,16 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Designing circuit boards with React](https://react.statuscode.com/issues/387)
+- [Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/)
 - [The future is compiled](https://react.statuscode.com/issues/386)
 - [React Conf starts today](https://react.statuscode.com/issues/385)
 - [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
 - [Getting ready for React Conf next week](https://react.statuscode.com/issues/384)
-- [It&#39;s React 19! Almost.](https://react.statuscode.com/issues/383)
 - [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
 - [CSS in React Server Components](https://www.joshwcomeau.com/react/css-in-rsc/)
 - [The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
 - [The styled-components Happy Path](https://www.joshwcomeau.com/css/styled-components/)
-- [A Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
