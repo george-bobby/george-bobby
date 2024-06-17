@@ -54,10 +54,10 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3377](https://github.com/ripienaar/free-for-dev/pull/3377) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-2. ❌ Closed PR [#1](https://github.com/george-bobby/free-for-dev/pull/1) in [george-bobby/free-for-dev](https://github.com/george-bobby/free-for-dev)
-3. 🎉 Merged PR [#2](https://github.com/george-bobby/react-todo/pull/2) in [george-bobby/react-todo](https://github.com/george-bobby/react-todo)
-4. 🎉 Merged PR [#1](https://github.com/george-bobby/react-todo/pull/1) in [george-bobby/react-todo](https://github.com/george-bobby/react-todo)
+1. 🎉 Merged PR [#1](https://github.com/george-bobby/event-platform/pull/1) in [george-bobby/event-platform](https://github.com/george-bobby/event-platform)
+2. 🗣 Commented on [#1](https://github.com/george-bobby/event-platform/pull/1#issuecomment-2171498286) in [george-bobby/event-platform](https://github.com/george-bobby/event-platform)
+3. 💪 Opened PR [#1](https://github.com/george-bobby/event-platform/pull/1) in [george-bobby/event-platform](https://github.com/george-bobby/event-platform)
+4. 💪 Opened PR [#3377](https://github.com/ripienaar/free-for-dev/pull/3377) in [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
 <!--END_SECTION:activity-->
 
 ## 👨‍💻 Tools and Frameworks  
