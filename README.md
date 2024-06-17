@@ -31,12 +31,12 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The promises of React Compiler, tested](https://react.statuscode.com/issues/388)
 - [Designing circuit boards with React](https://react.statuscode.com/issues/387)
 - [Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/)
 - [The future is compiled](https://react.statuscode.com/issues/386)
 - [React Conf starts today](https://react.statuscode.com/issues/385)
 - [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
-- [Getting ready for React Conf next week](https://react.statuscode.com/issues/384)
 - [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
 - [CSS in React Server Components](https://www.joshwcomeau.com/react/css-in-rsc/)
 - [The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
