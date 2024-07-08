@@ -31,11 +31,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How the NYT got a performance boost from React 18](https://react.statuscode.com/issues/391)
 - [Slack&#39;s AI powered React testing tool migration](https://react.statuscode.com/issues/390)
 - [Magical Rainbow Gradients](https://www.joshwcomeau.com/react/rainbow-button/)
 - [Using Google Sheets as a database](https://react.statuscode.com/issues/389)
 - [The promises of React Compiler, tested](https://react.statuscode.com/issues/388)
-- [Designing circuit boards with React](https://react.statuscode.com/issues/387)
 - [Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/)
 - [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
 - [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
