@@ -54,10 +54,10 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/george-bobby/event-platform/pull/2) in [george-bobby/event-platform](https://github.com/george-bobby/event-platform)
-2. 💪 Opened PR [#2](https://github.com/george-bobby/event-platform/pull/2) in [george-bobby/event-platform](https://github.com/george-bobby/event-platform)
-3. 🎉 Merged PR [#1](https://github.com/george-bobby/event-platform/pull/1) in [george-bobby/event-platform](https://github.com/george-bobby/event-platform)
-4. 🗣 Commented on [#1](https://github.com/george-bobby/event-platform/pull/1#issuecomment-2171498286) in [george-bobby/event-platform](https://github.com/george-bobby/event-platform)
+1. 🎉 Merged PR [#4](https://github.com/george-bobby/event-platform/pull/4) in [george-bobby/event-platform](https://github.com/george-bobby/event-platform)
+2. 🎉 Merged PR [#3](https://github.com/george-bobby/event-platform/pull/3) in [george-bobby/event-platform](https://github.com/george-bobby/event-platform)
+3. 🗣 Commented on [#3](https://github.com/george-bobby/event-platform/pull/3#issuecomment-2236940221) in [george-bobby/event-platform](https://github.com/george-bobby/event-platform)
+4. 💪 Opened PR [#3](https://github.com/george-bobby/event-platform/pull/3) in [george-bobby/event-platform](https://github.com/george-bobby/event-platform)
 <!--END_SECTION:activity-->
 
 ## 👨‍💻 Tools and Frameworks  
