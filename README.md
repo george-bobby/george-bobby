@@ -31,11 +31,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why use Redux in 2024?](https://react.statuscode.com/issues/393)
 - [React Compiler won&#39;t always save you](https://react.statuscode.com/issues/392)
 - [How the NYT got a performance boost from React 18](https://react.statuscode.com/issues/391)
 - [Slack&#39;s AI powered React testing tool migration](https://react.statuscode.com/issues/390)
 - [Magical Rainbow Gradients](https://www.joshwcomeau.com/react/rainbow-button/)
-- [Using Google Sheets as a database](https://react.statuscode.com/issues/389)
 - [Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/)
 - [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
 - [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
