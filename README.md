@@ -123,7 +123,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2031%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-179.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-209.0%20thousand%20lines%20of%20code-blue)
 
 **I Mostly Code in JavaScript** 
 
@@ -137,7 +137,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2024 00:53:07 UTC
+ Last Updated on 29/07/2024 00:52:56 UTC
 <!--END_SECTION:waka-->
   
 ## 😜 Leave Coding Apart
