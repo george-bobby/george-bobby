@@ -140,17 +140,18 @@ HTML                     1 repo              ██░░░░░░░░░�
  Last Updated on 29/07/2024 00:52:56 UTC
 <!--END_SECTION:waka-->
   
-## 😜 Leave Coding Apart
+<!-- 😜 Leave Coding Apart -->
 
-<div align="center">
+<!-- <div align="center">
   <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-</div>
+</div> -->
       
-## 🎧 Turn Up Beats
+<!-- 🎧 Turn Up Beats -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=cjxcp001npcxkfkoeloaj3yb5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
-</div>
+</div> -->
+
 
 ## ❤️ Support My Work
 
