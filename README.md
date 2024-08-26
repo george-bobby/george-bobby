@@ -121,7 +121,7 @@
 ## 🔝 See Coding Activity 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-88%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-334.4%20thousand%20lines%20of%20code-blue)
 
@@ -150,10 +150,14 @@ Sunday                   99 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 hrs 6 mins        █████████████████████████   99.24 % 
+Mason                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+DAA                      2 hrs 42 mins       ██████████████████████░░░   86.16 % 
+Qns AI                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -168,7 +172,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2024 00:53:19 UTC
+ Last Updated on 26/08/2024 00:53:08 UTC
 <!--END_SECTION:waka-->
   
 <!-- 😜 Leave Coding Apart -->
