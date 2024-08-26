@@ -31,11 +31,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React as a full-stack framework?](https://react.statuscode.com/issues/396)
 - [The React Conf 2024 talks](https://react.statuscode.com/issues/395)
 - [A World-Class Code Playground with Sandpack](https://www.joshwcomeau.com/react/next-level-playground/)
 - [What the React community is doing and thinking](https://react.statuscode.com/issues/394)
 - [Why use Redux in 2024?](https://react.statuscode.com/issues/393)
-- [React Compiler won&#39;t always save you](https://react.statuscode.com/issues/392)
 - [Magical Rainbow Gradients](https://www.joshwcomeau.com/react/rainbow-button/)
 - [Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/)
 - [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
