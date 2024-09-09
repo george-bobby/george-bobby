@@ -31,16 +31,16 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The interface segregation principle in React](https://react.statuscode.com/issues/397)
-- [React as a full-stack framework?](https://react.statuscode.com/issues/396)
-- [The React Conf 2024 talks](https://react.statuscode.com/issues/395)
-- [A World-Class Code Playground with Sandpack](https://www.joshwcomeau.com/react/next-level-playground/)
-- [What the React community is doing and thinking](https://react.statuscode.com/issues/394)
-- [Magical Rainbow Gradients](https://www.joshwcomeau.com/react/rainbow-button/)
-- [Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/)
-- [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
 - [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
-- [CSS in React Server Components](https://www.joshwcomeau.com/react/css-in-rsc/)
+- [An Interactive Guide to CSS Transitions](https://www.joshwcomeau.com/animation/css-transitions/)
+- [Boop!](https://www.joshwcomeau.com/react/boop/)
+- [Magical Rainbow Gradients](https://www.joshwcomeau.com/react/rainbow-button/)
+- [Is component testing the future of UI testing?](https://react.statuscode.com/issues/398)
+- [The interface segregation principle in React](https://react.statuscode.com/issues/397)
+- [Data Binding in React](https://www.joshwcomeau.com/react/data-binding/)
+- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+- [React as a full-stack framework?](https://react.statuscode.com/issues/396)
+- [What The Heck, z-index??](https://www.joshwcomeau.com/css/stacking-contexts/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
