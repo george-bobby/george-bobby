@@ -31,15 +31,15 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 - [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
-- [An Interactive Guide to CSS Transitions](https://www.joshwcomeau.com/animation/css-transitions/)
-- [Boop!](https://www.joshwcomeau.com/react/boop/)
-- [Magical Rainbow Gradients](https://www.joshwcomeau.com/react/rainbow-button/)
-- [Is component testing the future of UI testing?](https://react.statuscode.com/issues/398)
-- [The interface segregation principle in React](https://react.statuscode.com/issues/397)
-- [Data Binding in React](https://www.joshwcomeau.com/react/data-binding/)
-- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
-- [React as a full-stack framework?](https://react.statuscode.com/issues/396)
+- [Animated Pride Flags](https://www.joshwcomeau.com/animation/pride-flags/)
+- [The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
+- [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
+- [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
+- [A Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
+- [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
+- [Building a Magical 3D Button](https://www.joshwcomeau.com/animation/3d-button/)
 - [What The Heck, z-index??](https://www.joshwcomeau.com/css/stacking-contexts/)
 <!-- BLOG-POST-LIST:END -->
 
