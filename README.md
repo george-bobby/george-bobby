@@ -54,10 +54,10 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/george-bobby/edusite-web/pull/1) in [george-bobby/edusite-web](https://github.com/george-bobby/edusite-web)
-2. 🎉 Merged PR [#7](https://github.com/george-bobby/event-platform/pull/7) in [george-bobby/event-platform](https://github.com/george-bobby/event-platform)
-3. 💪 Opened PR [#7](https://github.com/george-bobby/event-platform/pull/7) in [george-bobby/event-platform](https://github.com/george-bobby/event-platform)
-4. 🎉 Merged PR [#6](https://github.com/george-bobby/event-platform/pull/6) in [george-bobby/event-platform](https://github.com/george-bobby/event-platform)
+1. ❌ Closed PR [#3](https://github.com/george-bobby/qnsai-platform/pull/3) in [george-bobby/qnsai-platform](https://github.com/george-bobby/qnsai-platform)
+2. ❌ Closed PR [#4](https://github.com/george-bobby/qnsai-platform/pull/4) in [george-bobby/qnsai-platform](https://github.com/george-bobby/qnsai-platform)
+3. 💪 Opened PR [#3](https://github.com/george-bobby/qnsai-platform/pull/3) in [george-bobby/qnsai-platform](https://github.com/george-bobby/qnsai-platform)
+4. 🎉 Merged PR [#2](https://github.com/george-bobby/qnsai-platform/pull/2) in [george-bobby/qnsai-platform](https://github.com/george-bobby/qnsai-platform)
 <!--END_SECTION:activity-->
 
 ## 👨‍💻 Tools and Frameworks  
