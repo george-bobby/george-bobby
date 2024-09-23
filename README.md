@@ -31,6 +31,8 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Refreshing Server-Side Props](https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/)
+- [A Next.js template for SaaS apps](https://react.statuscode.com/issues/400)
 - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 - [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
 - [Animated Pride Flags](https://www.joshwcomeau.com/animation/pride-flags/)
@@ -39,8 +41,6 @@
 - [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
 - [A Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
 - [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
-- [Building a Magical 3D Button](https://www.joshwcomeau.com/animation/3d-button/)
-- [What The Heck, z-index??](https://www.joshwcomeau.com/css/stacking-contexts/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
