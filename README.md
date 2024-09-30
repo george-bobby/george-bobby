@@ -31,16 +31,16 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Component composition is great](https://react.statuscode.com/issues/401)
+- [The styled-components Happy Path](https://www.joshwcomeau.com/css/styled-components/)
+- [Hands-Free Coding](https://www.joshwcomeau.com/blog/hands-free-coding/)
+- [How I Built My Blog](https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/)
+- [How I Built My Blog](https://www.joshwcomeau.com/blog/how-i-built-my-blog/)
 - [Refreshing Server-Side Props](https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/)
 - [A Next.js template for SaaS apps](https://react.statuscode.com/issues/400)
 - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
 - [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
 - [Animated Pride Flags](https://www.joshwcomeau.com/animation/pride-flags/)
-- [The End of Front-End Development](https://www.joshwcomeau.com/blog/the-end-of-frontend-development/)
-- [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
-- [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
-- [A Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
-- [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
