@@ -31,6 +31,8 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Delightful React File/Directory Structure](https://www.joshwcomeau.com/react/file-structure/)
+- [An AI-generated album of React songs..](https://react.statuscode.com/issues/402)
 - [Component composition is great](https://react.statuscode.com/issues/401)
 - [The styled-components Happy Path](https://www.joshwcomeau.com/css/styled-components/)
 - [Hands-Free Coding](https://www.joshwcomeau.com/blog/hands-free-coding/)
@@ -39,8 +41,6 @@
 - [Refreshing Server-Side Props](https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/)
 - [A Next.js template for SaaS apps](https://react.statuscode.com/issues/400)
 - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
-- [Making Sense of React Server Components](https://www.joshwcomeau.com/react/server-components/)
-- [Animated Pride Flags](https://www.joshwcomeau.com/animation/pride-flags/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
