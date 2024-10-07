@@ -54,10 +54,10 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/george-bobby/qnsai-platform/pull/3) in [george-bobby/qnsai-platform](https://github.com/george-bobby/qnsai-platform)
-2. ❌ Closed PR [#4](https://github.com/george-bobby/qnsai-platform/pull/4) in [george-bobby/qnsai-platform](https://github.com/george-bobby/qnsai-platform)
-3. 💪 Opened PR [#3](https://github.com/george-bobby/qnsai-platform/pull/3) in [george-bobby/qnsai-platform](https://github.com/george-bobby/qnsai-platform)
-4. 🎉 Merged PR [#2](https://github.com/george-bobby/qnsai-platform/pull/2) in [george-bobby/qnsai-platform](https://github.com/george-bobby/qnsai-platform)
+1. 🎉 Merged PR [#1](https://github.com/george-bobby/carbon-tracker/pull/1) in [george-bobby/carbon-tracker](https://github.com/george-bobby/carbon-tracker)
+2. 🎉 Merged PR [#1](https://github.com/george-bobby/react-todo/pull/1) in [george-bobby/react-todo](https://github.com/george-bobby/react-todo)
+3. ❌ Closed PR [#3](https://github.com/george-bobby/qnsai-platform/pull/3) in [george-bobby/qnsai-platform](https://github.com/george-bobby/qnsai-platform)
+4. ❌ Closed PR [#4](https://github.com/george-bobby/qnsai-platform/pull/4) in [george-bobby/qnsai-platform](https://github.com/george-bobby/qnsai-platform)
 <!--END_SECTION:activity-->
 
 ## 👨‍💻 Tools and Frameworks  
