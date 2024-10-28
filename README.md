@@ -31,6 +31,7 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
 - [The parallel evolution of React and Web Components](https://react.statuscode.com/issues/403)
 - [Delightful React File/Directory Structure](https://www.joshwcomeau.com/react/file-structure/)
 - [An AI-generated album of React songs..](https://react.statuscode.com/issues/402)
@@ -40,7 +41,6 @@
 - [How I Built My Blog](https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/)
 - [How I Built My Blog](https://www.joshwcomeau.com/blog/how-i-built-my-blog/)
 - [Refreshing Server-Side Props](https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/)
-- [A Next.js template for SaaS apps](https://react.statuscode.com/issues/400)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
