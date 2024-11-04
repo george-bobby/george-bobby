@@ -31,6 +31,7 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React Native takes a giant leap forward](https://react.statuscode.com/issues/404)
 - [A Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
 - [The parallel evolution of React and Web Components](https://react.statuscode.com/issues/403)
 - [Delightful React File/Directory Structure](https://www.joshwcomeau.com/react/file-structure/)
@@ -40,7 +41,6 @@
 - [Hands-Free Coding](https://www.joshwcomeau.com/blog/hands-free-coding/)
 - [How I Built My Blog](https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/)
 - [How I Built My Blog](https://www.joshwcomeau.com/blog/how-i-built-my-blog/)
-- [Refreshing Server-Side Props](https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
