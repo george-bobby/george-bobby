@@ -31,6 +31,7 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Taking Next.js 15 apps smoothly to production](https://react.statuscode.com/issues/406)
 - [A Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
 - [Building GNOME apps with React](https://react.statuscode.com/issues/405)
 - [A Friendly Introduction to Container Queries](https://www.joshwcomeau.com/css/container-queries-introduction/)
@@ -40,7 +41,6 @@
 - [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
 - [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
 - [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
-- [A Friendly Introduction to Spring Physics](https://www.joshwcomeau.com/animation/a-friendly-introduction-to-spring-physics/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
