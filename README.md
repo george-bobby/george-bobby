@@ -31,16 +31,16 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Taking Next.js 15 apps smoothly to production](https://react.statuscode.com/issues/406)
-- [A Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
-- [Building GNOME apps with React](https://react.statuscode.com/issues/405)
-- [A Friendly Introduction to Container Queries](https://www.joshwcomeau.com/css/container-queries-introduction/)
-- [React Native takes a giant leap forward](https://react.statuscode.com/issues/404)
-- [The parallel evolution of React and Web Components](https://react.statuscode.com/issues/403)
-- [Common Beginner Mistakes with React](https://www.joshwcomeau.com/react/common-beginner-mistakes/)
-- [Understanding useMemo and useCallback](https://www.joshwcomeau.com/react/usememo-and-usecallback/)
+- [Animated Pride Flags](https://www.joshwcomeau.com/animation/pride-flags/)
 - [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
 - [The Surprising Truth About Pixels and Accessibility](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
+- [A Modern CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
+- [Designing Beautiful Shadows in CSS](https://www.joshwcomeau.com/css/designing-shadows/)
+- [Demystifying styled-components](https://www.joshwcomeau.com/react/demystifying-styled-components/)
+- [How I Built My Blog](https://www.joshwcomeau.com/blog/how-i-built-my-blog/)
+- [The styled-components Happy Path](https://www.joshwcomeau.com/css/styled-components/)
+- [Refreshing Server-Side Props](https://www.joshwcomeau.com/nextjs/refreshing-server-side-props/)
+- [Boop!](https://www.joshwcomeau.com/react/boop/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
