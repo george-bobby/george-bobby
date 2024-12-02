@@ -31,16 +31,16 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Big releases: React Router 7 and Vite 6](https://react.statuscode.com/issues/408)
+- [A Framework for Evaluating Browser Support](https://www.joshwcomeau.com/css/browser-support/)
 - [Quickly scan your app for problematic renders](https://react.statuscode.com/issues/407)
 - [Taking Next.js 15 apps smoothly to production](https://react.statuscode.com/issues/406)
 - [Building GNOME apps with React](https://react.statuscode.com/issues/405)
 - [A Friendly Introduction to Container Queries](https://www.joshwcomeau.com/css/container-queries-introduction/)
-- [React Native takes a giant leap forward](https://react.statuscode.com/issues/404)
 - [How I Built My Blog](https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/)
 - [The Undeniable Utility Of CSS :has](https://www.joshwcomeau.com/css/has/)
 - [Promises From The Ground Up](https://www.joshwcomeau.com/javascript/promises/)
 - [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
-- [CSS in React Server Components](https://www.joshwcomeau.com/react/css-in-rsc/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
