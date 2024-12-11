@@ -21,8 +21,6 @@
 - 📄 Know about my experiences in [my resume](https://drive.google.com/file/d/1aK68o05lFY738pd95BWMpOxGIOVposaR/view?usp=drive_link)  
   
 - ⚡ Fun fact **I hate tickling**
-
-- 🔭 I’m currently working on [GetJam WhiteBoard](https://getjam-v2.vercel.app/)  
   
 - 🌱 I’m currently learning the [MERN Ecosystem](https://www.mongodb.com/mern-stack)
   
