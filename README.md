@@ -52,10 +52,10 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/george-bobby/carbon-tracker/pull/1) in [george-bobby/carbon-tracker](https://github.com/george-bobby/carbon-tracker)
-2. 🎉 Merged PR [#1](https://github.com/george-bobby/react-todo/pull/1) in [george-bobby/react-todo](https://github.com/george-bobby/react-todo)
-3. ❌ Closed PR [#3](https://github.com/george-bobby/qnsai-platform/pull/3) in [george-bobby/qnsai-platform](https://github.com/george-bobby/qnsai-platform)
-4. ❌ Closed PR [#4](https://github.com/george-bobby/qnsai-platform/pull/4) in [george-bobby/qnsai-platform](https://github.com/george-bobby/qnsai-platform)
+1. 🎉 Merged PR [#1](https://github.com/george-bobby/cluster-delta/pull/1) in [george-bobby/cluster-delta](https://github.com/george-bobby/cluster-delta)
+2. 💪 Opened PR [#1](https://github.com/george-bobby/cluster-delta/pull/1) in [george-bobby/cluster-delta](https://github.com/george-bobby/cluster-delta)
+3. 🎉 Merged PR [#9](https://github.com/george-bobby/event-platform/pull/9) in [george-bobby/event-platform](https://github.com/george-bobby/event-platform)
+4. 🗣 Commented on [#9](https://github.com/george-bobby/event-platform/pull/9#issuecomment-2535522309) in [george-bobby/event-platform](https://github.com/george-bobby/event-platform)
 <!--END_SECTION:activity-->
 
 ## 👨‍💻 Tools and Frameworks  
