@@ -29,12 +29,12 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How React fared in 2024](https://react.statuscode.com/issues/411)
 - [Say hello &lpar;again?&rpar; to React 19](https://react.statuscode.com/issues/410)
 - [Improving your React app&#39;s responsiveness](https://react.statuscode.com/issues/409)
 - [Next-level frosted glass with backdrop-filter](https://www.joshwcomeau.com/css/backdrop-filter/)
 - [Big releases: React Router 7 and Vite 6](https://react.statuscode.com/issues/408)
 - [A Framework for Evaluating Browser Support](https://www.joshwcomeau.com/css/browser-support/)
-- [Quickly scan your app for problematic renders](https://react.statuscode.com/issues/407)
 - [A Friendly Introduction to Container Queries](https://www.joshwcomeau.com/css/container-queries-introduction/)
 - [How I Built My Blog](https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/)
 - [The Undeniable Utility Of CSS :has](https://www.joshwcomeau.com/css/has/)
