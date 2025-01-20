@@ -52,10 +52,10 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#24](https://github.com/george-bobby/carbo-tracker/pull/24) in [george-bobby/carbo-tracker](https://github.com/george-bobby/carbo-tracker)
-2. 🎉 Merged PR [#16](https://github.com/george-bobby/event-platform/pull/16) in [george-bobby/event-platform](https://github.com/george-bobby/event-platform)
-3. 💪 Opened PR [#16](https://github.com/george-bobby/event-platform/pull/16) in [george-bobby/event-platform](https://github.com/george-bobby/event-platform)
-4. 🔒 Closed issue [#11](https://github.com/george-bobby/event-platform/issues/11) in [george-bobby/event-platform](https://github.com/george-bobby/event-platform)
+1. 🎉 Merged PR [#26](https://github.com/george-bobby/carbo-tracker/pull/26) in [george-bobby/carbo-tracker](https://github.com/george-bobby/carbo-tracker)
+2. 💪 Opened PR [#26](https://github.com/george-bobby/carbo-tracker/pull/26) in [george-bobby/carbo-tracker](https://github.com/george-bobby/carbo-tracker)
+3. 🎉 Merged PR [#25](https://github.com/george-bobby/carbo-tracker/pull/25) in [george-bobby/carbo-tracker](https://github.com/george-bobby/carbo-tracker)
+4. 💪 Opened PR [#25](https://github.com/george-bobby/carbo-tracker/pull/25) in [george-bobby/carbo-tracker](https://github.com/george-bobby/carbo-tracker)
 <!--END_SECTION:activity-->
 
 ## 👨‍💻 Tools and Frameworks  
