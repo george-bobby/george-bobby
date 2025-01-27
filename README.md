@@ -29,10 +29,10 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Terminal aesthetics for React apps](https://react.statuscode.com/issues/414)
 - [Fixing &#39;a glaring animation-sized hole in React&#39;s API&#39;](https://react.statuscode.com/issues/413)
 - [A fresh &lpar;TanStack&rpar; start for 2025](https://react.statuscode.com/issues/412)
 - [How React fared in 2024](https://react.statuscode.com/issues/411)
-- [Say hello &lpar;again?&rpar; to React 19](https://react.statuscode.com/issues/410)
 - [Next-level frosted glass with backdrop-filter](https://www.joshwcomeau.com/css/backdrop-filter/)
 - [A Framework for Evaluating Browser Support](https://www.joshwcomeau.com/css/browser-support/)
 - [A Friendly Introduction to Container Queries](https://www.joshwcomeau.com/css/container-queries-introduction/)
