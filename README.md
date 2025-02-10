@@ -52,8 +52,8 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/george-bobby/carbo-tracker/pull/26) in [george-bobby/carbo-tracker](https://github.com/george-bobby/carbo-tracker)
-2. 💪 Opened PR [#26](https://github.com/george-bobby/carbo-tracker/pull/26) in [george-bobby/carbo-tracker](https://github.com/george-bobby/carbo-tracker)
+1. 🎉 Merged PR [#16](https://github.com/george-bobby/cluster-delta/pull/16) in [george-bobby/cluster-delta](https://github.com/george-bobby/cluster-delta)
+2. 💪 Opened PR [#16](https://github.com/george-bobby/cluster-delta/pull/16) in [george-bobby/cluster-delta](https://github.com/george-bobby/cluster-delta)
 3. 🎉 Merged PR [#25](https://github.com/george-bobby/carbo-tracker/pull/25) in [george-bobby/carbo-tracker](https://github.com/george-bobby/carbo-tracker)
 4. 💪 Opened PR [#25](https://github.com/george-bobby/carbo-tracker/pull/25) in [george-bobby/carbo-tracker](https://github.com/george-bobby/carbo-tracker)
 <!--END_SECTION:activity-->
