@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to start a React project in 2025](https://react.statuscode.com/issues/417)
 - [Theo&#39;s victory over Create React App](https://react.statuscode.com/issues/416)
 - [Three ways to detect React performance issues](https://react.statuscode.com/issues/415)
 - [Container Queries Unleashed](https://www.joshwcomeau.com/css/container-queries-unleashed/)
 - [Terminal aesthetics for React apps](https://react.statuscode.com/issues/414)
-- [Fixing &#39;a glaring animation-sized hole in React&#39;s API&#39;](https://react.statuscode.com/issues/413)
 - [Next-level frosted glass with backdrop-filter](https://www.joshwcomeau.com/css/backdrop-filter/)
 - [A Framework for Evaluating Browser Support](https://www.joshwcomeau.com/css/browser-support/)
 - [A Friendly Introduction to Container Queries](https://www.joshwcomeau.com/css/container-queries-introduction/)
