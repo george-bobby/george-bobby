@@ -29,16 +29,16 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React libraries for 2025](https://react.statuscode.com/issues/418)
+- [A Million Little Secrets](https://www.joshwcomeau.com/blog/whimsical-animations/)
 - [How to start a React project in 2025](https://react.statuscode.com/issues/417)
 - [Theo&#39;s victory over Create React App](https://react.statuscode.com/issues/416)
 - [Three ways to detect React performance issues](https://react.statuscode.com/issues/415)
 - [Container Queries Unleashed](https://www.joshwcomeau.com/css/container-queries-unleashed/)
-- [Terminal aesthetics for React apps](https://react.statuscode.com/issues/414)
 - [Next-level frosted glass with backdrop-filter](https://www.joshwcomeau.com/css/backdrop-filter/)
 - [A Framework for Evaluating Browser Support](https://www.joshwcomeau.com/css/browser-support/)
 - [A Friendly Introduction to Container Queries](https://www.joshwcomeau.com/css/container-queries-introduction/)
 - [How I Built My Blog](https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/)
-- [The Undeniable Utility Of CSS :has](https://www.joshwcomeau.com/css/has/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
