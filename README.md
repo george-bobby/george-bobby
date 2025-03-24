@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React trends for 2025](https://react.statuscode.com/issues/421)
 - [How the NYT migrated its React testing approach in-place](https://react.statuscode.com/issues/420)
 - [TanStack Form v1.0 released](https://react.statuscode.com/issues/419)
 - [React libraries for 2025](https://react.statuscode.com/issues/418)
 - [A Million Little Secrets](https://www.joshwcomeau.com/blog/whimsical-animations/)
-- [How to start a React project in 2025](https://react.statuscode.com/issues/417)
 - [Container Queries Unleashed](https://www.joshwcomeau.com/css/container-queries-unleashed/)
 - [Next-level frosted glass with backdrop-filter](https://www.joshwcomeau.com/css/backdrop-filter/)
 - [A Framework for Evaluating Browser Support](https://www.joshwcomeau.com/css/browser-support/)
