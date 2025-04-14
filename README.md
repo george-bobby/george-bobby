@@ -29,16 +29,16 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React for Two Computers](https://overreacted.io/react-for-two-computers/)
+- [How React&#39;s reconciliation algorithm works](https://react.statuscode.com/issues/424)
 - [React 19.1 released](https://react.statuscode.com/issues/423)
 - [A bad weekend for Next.js](https://react.statuscode.com/issues/422)
 - [React trends for 2025](https://react.statuscode.com/issues/421)
-- [How the NYT migrated its React testing approach in-place](https://react.statuscode.com/issues/420)
 - [A Million Little Secrets](https://www.joshwcomeau.com/blog/whimsical-animations/)
 - [Container Queries Unleashed](https://www.joshwcomeau.com/css/container-queries-unleashed/)
 - [Next-level frosted glass with backdrop-filter](https://www.joshwcomeau.com/css/backdrop-filter/)
 - [A Framework for Evaluating Browser Support](https://www.joshwcomeau.com/css/browser-support/)
 - [A Friendly Introduction to Container Queries](https://www.joshwcomeau.com/css/container-queries-introduction/)
-- [How I Built My Blog](https://www.joshwcomeau.com/blog/how-i-built-my-blog-v2/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
