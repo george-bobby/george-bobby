@@ -29,16 +29,16 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Does &quot;use client&quot; Do?](https://overreacted.io/what-does-use-client-do/)
+- [Dan Abramov&#39;s impossible components](https://react.statuscode.com/issues/426)
+- [Impossible Components](https://overreacted.io/impossible-components/)
 - [JSX Over The Wire](https://overreacted.io/jsx-over-the-wire/)
 - [Advanced, real-world React case studies](https://react.statuscode.com/issues/425)
 - [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
 - [React for Two Computers](https://overreacted.io/react-for-two-computers/)
 - [How React&#39;s reconciliation algorithm works](https://react.statuscode.com/issues/424)
 - [React 19.1 released](https://react.statuscode.com/issues/423)
-- [A bad weekend for Next.js](https://react.statuscode.com/issues/422)
 - [A Million Little Secrets](https://www.joshwcomeau.com/blog/whimsical-animations/)
-- [Container Queries Unleashed](https://www.joshwcomeau.com/css/container-queries-unleashed/)
-- [Next-level frosted glass with backdrop-filter](https://www.joshwcomeau.com/css/backdrop-filter/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
