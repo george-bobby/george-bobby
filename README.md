@@ -52,10 +52,10 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/george-bobby/george-portfolio/pull/1) in [george-bobby/george-portfolio](https://github.com/george-bobby/george-portfolio)
-2. 🗣 Commented on [#1](https://github.com/george-bobby/george-portfolio/pull/1#issuecomment-2834029276) in [george-bobby/george-portfolio](https://github.com/george-bobby/george-portfolio)
-3. 🎉 Merged PR [#25](https://github.com/george-bobby/carbo-tracker/pull/25) in [george-bobby/carbo-tracker](https://github.com/george-bobby/carbo-tracker)
-4. 💪 Opened PR [#25](https://github.com/george-bobby/carbo-tracker/pull/25) in [george-bobby/carbo-tracker](https://github.com/george-bobby/carbo-tracker)
+1. 🎉 Merged PR [#28](https://github.com/george-bobby/proddy-platform/pull/28) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
+2. 💪 Opened PR [#28](https://github.com/george-bobby/proddy-platform/pull/28) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
+3. 🎉 Merged PR [#27](https://github.com/george-bobby/proddy-platform/pull/27) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
+4. 💪 Opened PR [#27](https://github.com/george-bobby/proddy-platform/pull/27) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
 <!--END_SECTION:activity-->
 
 ## 👨‍💻 Tools and Frameworks  
