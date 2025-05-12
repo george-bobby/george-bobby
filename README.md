@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Static as a Server](https://overreacted.io/static-as-a-server/)
+- [Comparing React Server Components with Astro&#39;s islands](https://react.statuscode.com/issues/428)
+- [RSC for Astro Developers](https://overreacted.io/rsc-for-astro-developers/)
 - [Functional HTML](https://overreacted.io/functional-html/)
 - [A mega React Labs update](https://react.statuscode.com/issues/427)
-- [What Does &quot;use client&quot; Do?](https://overreacted.io/what-does-use-client-do/)
-- [Dan Abramov&#39;s impossible components](https://react.statuscode.com/issues/426)
-- [Impossible Components](https://overreacted.io/impossible-components/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
