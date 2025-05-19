@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Now React can make circuit boards too](https://react.statuscode.com/issues/429)
+- [The Height Enigma](https://www.joshwcomeau.com/css/height-enigma/)
 - [Static as a Server](https://overreacted.io/static-as-a-server/)
 - [Comparing React Server Components with Astro&#39;s islands](https://react.statuscode.com/issues/428)
 - [RSC for Astro Developers](https://overreacted.io/rsc-for-astro-developers/)
-- [Functional HTML](https://overreacted.io/functional-html/)
-- [A mega React Labs update](https://react.statuscode.com/issues/427)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
