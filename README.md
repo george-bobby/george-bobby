@@ -47,10 +47,10 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#68](https://github.com/george-bobby/proddy-platform/pull/68) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
-2. 💪 Opened PR [#68](https://github.com/george-bobby/proddy-platform/pull/68) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
-3. 🎉 Merged PR [#67](https://github.com/george-bobby/proddy-platform/pull/67) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
-4. 💪 Opened PR [#67](https://github.com/george-bobby/proddy-platform/pull/67) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
+1. 💪 Opened PR [#6505](https://github.com/vercel/ai/pull/6505) in [vercel/ai](https://github.com/vercel/ai)
+2. ❗ Opened issue [#5](https://github.com/george-bobby/edusite-web/issues/5) in [george-bobby/edusite-web](https://github.com/george-bobby/edusite-web)
+3. 🎉 Merged PR [#69](https://github.com/george-bobby/proddy-platform/pull/69) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
+4. 💪 Opened PR [#69](https://github.com/george-bobby/proddy-platform/pull/69) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
 <!--END_SECTION:activity-->
 
 ## 👨‍💻 Tools and Frameworks  
