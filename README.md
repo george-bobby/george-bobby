@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Imports Work in RSC](https://overreacted.io/how-imports-work-in-rsc/)
 - [RSC for LISP Developers](https://overreacted.io/rsc-for-lisp-developers/)
 - [Progressive JSON](https://overreacted.io/progressive-json/)
 - [Why Does RSC Integrate with a Bundler?](https://overreacted.io/why-does-rsc-integrate-with-a-bundler/)
 - [One Roundtrip Per Navigation](https://overreacted.io/one-roundtrip-per-navigation/)
-- [Core React concepts explained visually](https://react.statuscode.com/issues/430)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
