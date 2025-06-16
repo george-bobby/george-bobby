@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Suppressions of Suppressions](https://overreacted.io/suppressions-of-suppressions/)
+- [I&#39;m Doing a Little Consulting](https://overreacted.io/im-doing-a-little-consulting/)
+- [Dan Abramov continues to flesh out RSCs](https://react.statuscode.com/issues/431)
+- [Partial Keyframes](https://www.joshwcomeau.com/animation/partial-keyframes/)
 - [How Imports Work in RSC](https://overreacted.io/how-imports-work-in-rsc/)
-- [RSC for LISP Developers](https://overreacted.io/rsc-for-lisp-developers/)
-- [Progressive JSON](https://overreacted.io/progressive-json/)
-- [Why Does RSC Integrate with a Bundler?](https://overreacted.io/why-does-rsc-integrate-with-a-bundler/)
-- [One Roundtrip Per Navigation](https://overreacted.io/one-roundtrip-per-navigation/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
