@@ -12,7 +12,7 @@
 
 ## 💼 See My Works 
   
-- 👨‍💻 All of my projects are in [my portfolio](https://georgebobby.vercel.app/)  
+- 👨‍💻 All of my projects are in [my portfolio](https://georgebobby.me/)  
   
 - 📝 I irregularly write articles on [my blog](https://georgebobby.hashnode.dev/)  
   
