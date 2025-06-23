@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The state of React in 2025](https://react.statuscode.com/issues/432)
 - [Suppressions of Suppressions](https://overreacted.io/suppressions-of-suppressions/)
 - [I&#39;m Doing a Little Consulting](https://overreacted.io/im-doing-a-little-consulting/)
 - [Dan Abramov continues to flesh out RSCs](https://react.statuscode.com/issues/431)
 - [Partial Keyframes](https://www.joshwcomeau.com/animation/partial-keyframes/)
-- [How Imports Work in RSC](https://overreacted.io/how-imports-work-in-rsc/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
