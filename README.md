@@ -47,10 +47,10 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/george-bobby/proddy-test/issues/1) in [george-bobby/proddy-test](https://github.com/george-bobby/proddy-test)
-2. 🔒 Closed issue [#11](https://github.com/george-bobby/edusite-web/issues/11) in [george-bobby/edusite-web](https://github.com/george-bobby/edusite-web)
-3. 🔒 Closed issue [#10](https://github.com/george-bobby/edusite-web/issues/10) in [george-bobby/edusite-web](https://github.com/george-bobby/edusite-web)
-4. ❗ Opened issue [#11](https://github.com/george-bobby/edusite-web/issues/11) in [george-bobby/edusite-web](https://github.com/george-bobby/edusite-web)
+1. 🔒 Closed issue [#1](https://github.com/george-bobby/proddy-test/issues/1) in [george-bobby/proddy-test](https://github.com/george-bobby/proddy-test)
+2. ❌ Closed PR [#70](https://github.com/george-bobby/proddy-platform/pull/70) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
+3. ❗ Opened issue [#1](https://github.com/george-bobby/proddy-test/issues/1) in [george-bobby/proddy-test](https://github.com/george-bobby/proddy-test)
+4. 🔒 Closed issue [#11](https://github.com/george-bobby/edusite-web/issues/11) in [george-bobby/edusite-web](https://github.com/george-bobby/edusite-web)
 <!--END_SECTION:activity-->
 
 ## 👨‍💻 Tools and Frameworks  
