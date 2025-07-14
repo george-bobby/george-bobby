@@ -47,10 +47,10 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/george-bobby/proddy-test/issues/3) in [george-bobby/proddy-test](https://github.com/george-bobby/proddy-test)
-2. 🔒 Closed issue [#2](https://github.com/george-bobby/proddy-test/issues/2) in [george-bobby/proddy-test](https://github.com/george-bobby/proddy-test)
-3. ❗ Opened issue [#3](https://github.com/george-bobby/proddy-test/issues/3) in [george-bobby/proddy-test](https://github.com/george-bobby/proddy-test)
-4. 🎉 Merged PR [#71](https://github.com/george-bobby/proddy-platform/pull/71) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
+1. 🎉 Merged PR [#1](https://github.com/fennymary/christ-university-iot/pull/1) in [fennymary/christ-university-iot](https://github.com/fennymary/christ-university-iot)
+2. 💪 Opened PR [#1](https://github.com/fennymary/christ-university-iot/pull/1) in [fennymary/christ-university-iot](https://github.com/fennymary/christ-university-iot)
+3. 🎉 Merged PR [#72](https://github.com/george-bobby/proddy-platform/pull/72) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
+4. 💪 Opened PR [#72](https://github.com/george-bobby/proddy-platform/pull/72) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
 <!--END_SECTION:activity-->
 
 ## 👨‍💻 Tools and Frameworks  
