@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting kinetic with React Three Fiber](https://react.statuscode.com/issues/435)
 - [The React/Rust full-stack option](https://react.statuscode.com/issues/434)
 - [Recharts 3.0](https://react.statuscode.com/issues/433)
 - [The state of React in 2025](https://react.statuscode.com/issues/432)
 - [Suppressions of Suppressions](https://overreacted.io/suppressions-of-suppressions/)
-- [I&#39;m Doing a Little Consulting](https://overreacted.io/im-doing-a-little-consulting/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
