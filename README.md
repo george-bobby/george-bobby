@@ -29,10 +29,10 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Node-API support in React Native](https://react.statuscode.com/issues/436)
 - [Getting kinetic with React Three Fiber](https://react.statuscode.com/issues/435)
 - [The React/Rust full-stack option](https://react.statuscode.com/issues/434)
 - [Recharts 3.0](https://react.statuscode.com/issues/433)
-- [The state of React in 2025](https://react.statuscode.com/issues/432)
 - [Suppressions of Suppressions](https://overreacted.io/suppressions-of-suppressions/)
 <!-- BLOG-POST-LIST:END -->
 
