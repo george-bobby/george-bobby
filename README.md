@@ -24,7 +24,7 @@
   
 - 🌱 I’m currently learning the [MERN Ecosystem](https://www.mongodb.com/mern-stack)
   
-- 👯 I’m looking to collaborate on [QnsAI.ML](https://qnsai.vercel.app/)
+- 👯 I’m looking to collaborate on [Proddy AI](https://proddy.tech/)
 
 ## 📝 Recently Read Posts
 
