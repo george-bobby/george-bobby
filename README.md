@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/)
+- [TanStack DB enters beta with v0.1](https://react.statuscode.com/issues/438)
 - [Figma MCP vs Claude: A React coding battle](https://react.statuscode.com/issues/437)
 - [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/)
 - [Node-API support in React Native](https://react.statuscode.com/issues/436)
-- [Getting kinetic with React Three Fiber](https://react.statuscode.com/issues/435)
-- [The React/Rust full-stack option](https://react.statuscode.com/issues/434)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
