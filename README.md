@@ -14,7 +14,7 @@
   
 - 👨‍💻 All of my projects are in [my portfolio](https://georgebobby.me/)  
   
-- 📝 I irregularly write articles on [my blog](https://georgebobby.hashnode.dev/)  
+- 📝 I irregularly write articles on [my blog](https://georgebobby.me/blog)  
   
 - 📫 Reach me via **mailto.georgebobby@gmail.com**  
   
@@ -22,7 +22,7 @@
   
 - ⚡ Fun fact **I hate tickling**
   
-- 🌱 I’m currently learning the [MERN Ecosystem](https://www.mongodb.com/mern-stack)
+- 🌱 I’m currently learning about [AI Agents](https://www.capgemini.com/insights/research-library/ai-agents/)
   
 - 👯 I’m looking to collaborate on [Proddy AI](https://proddy.tech/)
 
