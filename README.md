@@ -18,7 +18,7 @@
   
 - 📫 Reach me via **mailto.georgebobby@gmail.com**  
   
-- 📄 Know about my experiences in [my resume](https://drive.google.com/file/d/1aK68o05lFY738pd95BWMpOxGIOVposaR/view?usp=drive_link)  
+- 📄 Know about my experiences in [my resume](https://drive.google.com/file/d/1OIBPZXgmyZlm6uov8-zrEDfJ015KDT2q/view?usp=sharing)  
   
 - ⚡ Fun fact **I hate tickling**
   
