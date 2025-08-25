@@ -47,8 +47,8 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/fennymary/christ-university-iot/pull/1) in [fennymary/christ-university-iot](https://github.com/fennymary/christ-university-iot)
-2. 💪 Opened PR [#1](https://github.com/fennymary/christ-university-iot/pull/1) in [fennymary/christ-university-iot](https://github.com/fennymary/christ-university-iot)
+1. ❌ Closed PR [#73](https://github.com/george-bobby/proddy-platform/pull/73) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
+2. 💪 Opened PR [#73](https://github.com/george-bobby/proddy-platform/pull/73) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
 3. 🎉 Merged PR [#72](https://github.com/george-bobby/proddy-platform/pull/72) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
 4. 💪 Opened PR [#72](https://github.com/george-bobby/proddy-platform/pull/72) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
 <!--END_SECTION:activity-->
