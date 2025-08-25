@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Watch three developers face the same React challenge](https://react.statuscode.com/issues/440)
+- [An Interactive Guide to SVG Paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/)
 - [Beyond Booleans](https://overreacted.io/beyond-booleans/)
 - [Jack Herrington&#39;s tRPC vs oRPC battle](https://react.statuscode.com/issues/439)
 - [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/)
-- [TanStack DB enters beta with v0.1](https://react.statuscode.com/issues/438)
-- [Figma MCP vs Claude: A React coding battle](https://react.statuscode.com/issues/437)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
