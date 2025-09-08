@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React Server Components sans frameworks](https://react.statuscode.com/issues/442)
+- [Lean for JavaScript Developers](https://overreacted.io/lean-for-javascript-developers/)
 - [localStorage vs Context, Redux or Zustand](https://react.statuscode.com/issues/441)
 - [Watch three developers face the same React challenge](https://react.statuscode.com/issues/440)
 - [An Interactive Guide to SVG Paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/)
-- [Beyond Booleans](https://overreacted.io/beyond-booleans/)
-- [Jack Herrington&#39;s tRPC vs oRPC battle](https://react.statuscode.com/issues/439)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
