@@ -47,10 +47,10 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#73](https://github.com/george-bobby/proddy-platform/pull/73) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
-2. 💪 Opened PR [#73](https://github.com/george-bobby/proddy-platform/pull/73) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
-3. 🎉 Merged PR [#72](https://github.com/george-bobby/proddy-platform/pull/72) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
-4. 💪 Opened PR [#72](https://github.com/george-bobby/proddy-platform/pull/72) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
+1. 🎉 Merged PR [#1](https://github.com/george-bobby/prepify-interviews/pull/1) in [george-bobby/prepify-interviews](https://github.com/george-bobby/prepify-interviews)
+2. 🎉 Merged PR [#79](https://github.com/george-bobby/proddy-platform/pull/79) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
+3. ❌ Closed PR [#73](https://github.com/george-bobby/proddy-platform/pull/73) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
+4. 💪 Opened PR [#73](https://github.com/george-bobby/proddy-platform/pull/73) in [george-bobby/proddy-platform](https://github.com/george-bobby/proddy-platform)
 <!--END_SECTION:activity-->
 
 ## 👨‍💻 Tools and Frameworks  
