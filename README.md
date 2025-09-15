@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shopify&#39;s journey to the New Architecture](https://react.statuscode.com/issues/443)
+- [Color Shifting in CSS](https://www.joshwcomeau.com/animation/color-shifting/)
 - [React Server Components sans frameworks](https://react.statuscode.com/issues/442)
 - [Lean for JavaScript Developers](https://overreacted.io/lean-for-javascript-developers/)
 - [localStorage vs Context, Redux or Zustand](https://react.statuscode.com/issues/441)
-- [Watch three developers face the same React challenge](https://react.statuscode.com/issues/440)
-- [An Interactive Guide to SVG Paths](https://www.joshwcomeau.com/svg/interactive-guide-to-paths/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
