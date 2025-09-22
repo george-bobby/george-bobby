@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to keep your package.json under control](https://react.statuscode.com/issues/444)
 - [Shopify&#39;s journey to the New Architecture](https://react.statuscode.com/issues/443)
 - [Color Shifting in CSS](https://www.joshwcomeau.com/animation/color-shifting/)
 - [React Server Components sans frameworks](https://react.statuscode.com/issues/442)
 - [Lean for JavaScript Developers](https://overreacted.io/lean-for-javascript-developers/)
-- [localStorage vs Context, Redux or Zustand](https://react.statuscode.com/issues/441)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
