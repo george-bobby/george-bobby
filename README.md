@@ -47,10 +47,10 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/george-bobby/event-platform/pull/17) in [george-bobby/event-platform](https://github.com/george-bobby/event-platform)
-2. 🎉 Merged PR [#3](https://github.com/george-bobby/prepify-interview/pull/3) in [george-bobby/prepify-interview](https://github.com/george-bobby/prepify-interview)
-3. 💪 Opened PR [#3](https://github.com/george-bobby/prepify-interview/pull/3) in [george-bobby/prepify-interview](https://github.com/george-bobby/prepify-interview)
-4. 🎉 Merged PR [#2](https://github.com/george-bobby/prepify-interview/pull/2) in [george-bobby/prepify-interview](https://github.com/george-bobby/prepify-interview)
+1. 🎉 Merged PR [#6](https://github.com/george-bobby/prepify-interview/pull/6) in [george-bobby/prepify-interview](https://github.com/george-bobby/prepify-interview)
+2. 💪 Opened PR [#6](https://github.com/george-bobby/prepify-interview/pull/6) in [george-bobby/prepify-interview](https://github.com/george-bobby/prepify-interview)
+3. 🎉 Merged PR [#5](https://github.com/george-bobby/prepify-interview/pull/5) in [george-bobby/prepify-interview](https://github.com/george-bobby/prepify-interview)
+4. 🎉 Merged PR [#4](https://github.com/george-bobby/prepify-interview/pull/4) in [george-bobby/prepify-interview](https://github.com/george-bobby/prepify-interview)
 <!--END_SECTION:activity-->
 
 ## 👨‍💻 Tools and Frameworks  
