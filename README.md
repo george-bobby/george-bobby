@@ -114,24 +114,22 @@
 ## 🔝 See Coding Activity 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-632%20hrs%2027%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               17 repos            ███████████░░░░░░░░░░░░░░   43.59 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+TypeScript               19 repos            ████████████░░░░░░░░░░░░░   46.34 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
 
 
- Last Updated on 22/09/2025 01:09:12 UTC
+ Last Updated on 29/09/2025 01:05:57 UTC
 <!--END_SECTION:waka-->
   
 <!-- 😜 Leave Coding Apart -->
