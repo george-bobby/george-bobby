@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Where It&#39;s at://](https://overreacted.io/where-its-at/)
+- [Considering React state management options in 2025](https://react.statuscode.com/issues/446)
 - [Open Social](https://overreacted.io/open-social/)
 - [TanStack Start v1 begins to appear](https://react.statuscode.com/issues/445)
 - [The Big Gotcha With @starting-style](https://www.joshwcomeau.com/css/starting-style/)
-- [How to keep your package.json under control](https://react.statuscode.com/issues/444)
-- [Shopify&#39;s journey to the New Architecture](https://react.statuscode.com/issues/443)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
