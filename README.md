@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Fix Any Bug](https://overreacted.io/how-to-fix-any-bug/)
 - [React Compiler 1.0, Bun 1.3, and Next.js 16 Beta](https://react.statuscode.com/issues/448)
 - [The React Foundation and React 19.2](https://react.statuscode.com/issues/447)
 - [Where It&#39;s at://](https://overreacted.io/where-its-at/)
 - [Considering React state management options in 2025](https://react.statuscode.com/issues/446)
-- [Open Social](https://overreacted.io/open-social/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
