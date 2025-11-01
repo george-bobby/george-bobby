@@ -104,6 +104,7 @@
 ## 👯 See StackExchange Actvity
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by George Bobby for How to work on UAC when installing XAMPP](https://stackoverflow.com/questions/26360774/how-to-work-on-uac-when-installing-xampp/79796647#79796647)
 - [Answer by George Bobby for What is represent by edges when facebook using graph data structure](https://stackoverflow.com/questions/58134083/what-is-represent-by-edges-when-facebook-using-graph-data-structure/77214632#77214632)
 - [Answer by George Bobby for CodeSandbox: Using terminal in node template](https://stackoverflow.com/questions/64828353/codesandbox-using-terminal-in-node-template/70359679#70359679)
 - [Answer by George Bobby for Why this error come when useing npx create-react-app my-app?](https://stackoverflow.com/questions/67455023/why-this-error-come-when-useing-npx-create-react-app-my-app/67458220#67458220)
