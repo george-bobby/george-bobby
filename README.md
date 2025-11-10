@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bringing Godot Engine into React Native Apps](https://react.statuscode.com/issues/450)
 - [Are we getting locked in by directives?](https://react.statuscode.com/issues/449)
 - [Springs and Bounces in Native CSS](https://www.joshwcomeau.com/animation/linear-timing-function/)
 - [How to Fix Any Bug](https://overreacted.io/how-to-fix-any-bug/)
 - [React Compiler 1.0, Bun 1.3, and Next.js 16 Beta](https://react.statuscode.com/issues/448)
-- [The React Foundation and React 19.2](https://react.statuscode.com/issues/447)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
