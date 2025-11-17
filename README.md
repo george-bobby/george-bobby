@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Beware the overuse of useTransition](https://react.statuscode.com/issues/451)
+- [Hire Me in Japan](https://overreacted.io/hire-me-in-japan/)
 - [Bringing Godot Engine into React Native Apps](https://react.statuscode.com/issues/450)
 - [Are we getting locked in by directives?](https://react.statuscode.com/issues/449)
 - [Springs and Bounces in Native CSS](https://www.joshwcomeau.com/animation/linear-timing-function/)
-- [How to Fix Any Bug](https://overreacted.io/how-to-fix-any-bug/)
-- [React Compiler 1.0, Bun 1.3, and Next.js 16 Beta](https://react.statuscode.com/issues/448)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
