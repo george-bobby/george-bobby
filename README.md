@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating 6000 React tests with agents and ASTs](https://react.statuscode.com/issues/453)
+- [Brand New Layouts with CSS Subgrid](https://www.joshwcomeau.com/css/subgrid/)
 - [Time to take the State of React 2025 survey](https://react.statuscode.com/issues/452)
 - [Beware the overuse of useTransition](https://react.statuscode.com/issues/451)
 - [Hire Me in Japan](https://overreacted.io/hire-me-in-japan/)
-- [Bringing Godot Engine into React Native Apps](https://react.statuscode.com/issues/450)
-- [Are we getting locked in by directives?](https://react.statuscode.com/issues/449)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
