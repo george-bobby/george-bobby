@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Improving responsiveness with React 19.2](https://react.statuscode.com/issues/455)
 - [React gets a security update for RSC-supporting apps](https://react.statuscode.com/issues/454)
 - [Migrating 6000 React tests with agents and ASTs](https://react.statuscode.com/issues/453)
 - [Brand New Layouts with CSS Subgrid](https://www.joshwcomeau.com/css/subgrid/)
 - [Time to take the State of React 2025 survey](https://react.statuscode.com/issues/452)
-- [Beware the overuse of useTransition](https://react.statuscode.com/issues/451)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
