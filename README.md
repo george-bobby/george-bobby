@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing RSC Explorer](https://overreacted.io/introducing-rsc-explorer/)
+- [The top React links &lpar;and videos&rpar; of 2025](https://react.statuscode.com/issues/456)
 - [Improving responsiveness with React 19.2](https://react.statuscode.com/issues/455)
 - [React gets a security update for RSC-supporting apps](https://react.statuscode.com/issues/454)
 - [Migrating 6000 React tests with agents and ASTs](https://react.statuscode.com/issues/453)
-- [Brand New Layouts with CSS Subgrid](https://www.joshwcomeau.com/css/subgrid/)
-- [Time to take the State of React 2025 survey](https://react.statuscode.com/issues/452)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
