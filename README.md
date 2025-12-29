@@ -47,9 +47,9 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#831](https://github.com/dbcodeio/public/issues/831) in [dbcodeio/public](https://github.com/dbcodeio/public)
-2. 🗣 Commented on [#479](https://github.com/dbcodeio/public/issues/479#issuecomment-3530699592) in [dbcodeio/public](https://github.com/dbcodeio/public)
-3. 🎉 Merged PR [#5](https://github.com/george-bobby/prepify-interview/pull/5) in [george-bobby/prepify-interview](https://github.com/george-bobby/prepify-interview)
+1.  Assigned issue [#27337](https://github.com/cloudflare/cloudflare-docs/issues/27337) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
+2.  Labeled issue [#27337](https://github.com/cloudflare/cloudflare-docs/issues/27337) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
+3. ❗ Opened issue [#27337](https://github.com/cloudflare/cloudflare-docs/issues/27337) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
 4. 🎉 Merged PR [#4](https://github.com/george-bobby/prepify-interview/pull/4) in [george-bobby/prepify-interview](https://github.com/george-bobby/prepify-interview)
 <!--END_SECTION:activity-->
 
