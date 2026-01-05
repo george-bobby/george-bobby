@@ -47,8 +47,8 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#27337](https://github.com/cloudflare/cloudflare-docs/issues/27337) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
-2.  Labeled issue [#27337](https://github.com/cloudflare/cloudflare-docs/issues/27337) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
+1. ℹ️ Assigned issue [#27337](https://github.com/cloudflare/cloudflare-docs/issues/27337) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
+2. ℹ️ Labeled issue [#27337](https://github.com/cloudflare/cloudflare-docs/issues/27337) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
 3. ❗ Opened issue [#27337](https://github.com/cloudflare/cloudflare-docs/issues/27337) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
 4. 🎉 Merged PR [#4](https://github.com/george-bobby/prepify-interview/pull/4) in [george-bobby/prepify-interview](https://github.com/george-bobby/prepify-interview)
 <!--END_SECTION:activity-->
