@@ -189,8 +189,10 @@ TeX                      1 repo              █░░░░░░░░░░�
 ## 🐍 Sizzling The Feed
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/george-bobby/george-bobby/output/snake.svg" alt="Snake animation" /> 
-<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/george-bobby/george-bobby/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/george-bobby/george-bobby/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/george-bobby/george-bobby/output/pacman-contribution-graph.svg">
+</picture>
 <a href="https://www.buymeacoffee.com/georgebawesome" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"  style="border-radius: 20px;"></a>
-</p>
 </div> 
