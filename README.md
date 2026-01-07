@@ -39,9 +39,9 @@
 ## 📊 View GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=george-bobby&theme=dark&hide_border=false" alt="GitHub Streak Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-bobby&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+ <img src="https://github-readme-stats-fast.vercel.app/api?username=george-bobby&show_icons=true&theme=dark&card_width=700&card_height=200">
+ <br>
+ <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app/?user=george-bobby&theme=dark&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=200" /></a>
 </div>
 
 <br/>
@@ -54,7 +54,7 @@
 <!--END_SECTION:activity-->
 
 ## 👨‍💻 Tools and Frameworks  
-
+<div align="center">
 <table>
 <tr><td valign="top" width="33%">
 
@@ -100,6 +100,7 @@
 
 </td></tr>
 </table>  
+</div>
 
 ## 👯 See StackExchange Actvity
 
@@ -171,27 +172,25 @@ TeX                      1 repo              █░░░░░░░░░░�
  Last Updated on 05/01/2026 01:42:15 UTC
 <!--END_SECTION:waka-->
   
-<!-- 😜 Leave Coding Apart -->
+## 😜 Qoute of the Session
 
-<!-- <div align="center">
-  <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-</div> -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</div>
       
-<!-- 🎧 Turn Up Beats -->
+## 🎧 Turn Up Beats
 
-<!-- <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=cjxcp001npcxkfkoeloaj3yb5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
-</div> -->
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rbpi5pngeyagx5xg67okuuvrkm&width=700&count=3" />
+</div>
 
 
-## ❤️ Support My Work
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/georgebawesome" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"  style="border-radius: 20px;"></a>
-</p>
 
 ## 🐍 Sizzling The Feed
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/george-bobby/george-bobby/output/snake.svg" alt="Snake animation" /> 
+<p align="center">
+<a href="https://www.buymeacoffee.com/georgebawesome" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"  style="border-radius: 20px;"></a>
+</p>
 </div> 
