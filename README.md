@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The joys of React 19.2&#39;s useEffectEvent](https://react.statuscode.com/issues/457)
 - [Introducing RSC Explorer](https://overreacted.io/introducing-rsc-explorer/)
 - [The top React links &lpar;and videos&rpar; of 2025](https://react.statuscode.com/issues/456)
 - [Improving responsiveness with React 19.2](https://react.statuscode.com/issues/455)
 - [React gets a security update for RSC-supporting apps](https://react.statuscode.com/issues/454)
-- [Migrating 6000 React tests with agents and ASTs](https://react.statuscode.com/issues/453)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
