@@ -47,10 +47,10 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#27337](https://github.com/cloudflare/cloudflare-docs/issues/27337) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
-2. ℹ️ Labeled issue [#27337](https://github.com/cloudflare/cloudflare-docs/issues/27337) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
-3. ❗ Opened issue [#27337](https://github.com/cloudflare/cloudflare-docs/issues/27337) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
-4. 🎉 Merged PR [#4](https://github.com/george-bobby/prepify-interview/pull/4) in [george-bobby/prepify-interview](https://github.com/george-bobby/prepify-interview)
+1. 🗣 Commented on [#119](https://github.com/ProddyAI/platform/pull/119#issuecomment-3723413249) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
+2. 🎉 Merged PR [#117](https://github.com/ProddyAI/platform/pull/117) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
+3. 💪 Opened PR [#117](https://github.com/ProddyAI/platform/pull/117) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
+4. ❌ Closed PR [#115](https://github.com/ProddyAI/platform/pull/115) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
 <!--END_SECTION:activity-->
 
 ## 👨‍💻 Tools and Frameworks  
