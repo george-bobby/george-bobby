@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Social Filesystem](https://overreacted.io/a-social-filesystem/)
+- [React best practices for AI agents](https://react.statuscode.com/issues/458)
 - [The joys of React 19.2&#39;s useEffectEvent](https://react.statuscode.com/issues/457)
 - [Introducing RSC Explorer](https://overreacted.io/introducing-rsc-explorer/)
 - [The top React links &lpar;and videos&rpar; of 2025](https://react.statuscode.com/issues/456)
-- [Improving responsiveness with React 19.2](https://react.statuscode.com/issues/455)
-- [React gets a security update for RSC-supporting apps](https://react.statuscode.com/issues/454)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
