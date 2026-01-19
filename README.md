@@ -47,10 +47,10 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/ProddyAI/platform/pull/119#issuecomment-3723413249) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
-2. 🎉 Merged PR [#117](https://github.com/ProddyAI/platform/pull/117) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
-3. 💪 Opened PR [#117](https://github.com/ProddyAI/platform/pull/117) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
-4. ❌ Closed PR [#115](https://github.com/ProddyAI/platform/pull/115) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
+1. ❌ Closed PR [#119](https://github.com/ProddyAI/platform/pull/119) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
+2. ❌ Closed PR [#121](https://github.com/ProddyAI/platform/pull/121) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
+3. 💪 Opened PR [#121](https://github.com/ProddyAI/platform/pull/121) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
+4. 🗣 Commented on [#119](https://github.com/ProddyAI/platform/pull/119#issuecomment-3723413249) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
 <!--END_SECTION:activity-->
 
 ## 👨‍💻 Tools and Frameworks  
