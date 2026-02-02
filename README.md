@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Animating ASCII in the terminal with React and Ink](https://react.statuscode.com/issues/460)
 - [Remotion is having the week of its life](https://react.statuscode.com/issues/459)
 - [A Social Filesystem](https://overreacted.io/a-social-filesystem/)
 - [React best practices for AI agents](https://react.statuscode.com/issues/458)
 - [The joys of React 19.2&#39;s useEffectEvent](https://react.statuscode.com/issues/457)
-- [Introducing RSC Explorer](https://overreacted.io/introducing-rsc-explorer/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
