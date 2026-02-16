@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building bulletproof React components and handling billion-row tables](https://react.statuscode.com/issues/462)
 - [A Next.js to TanStack Start migration in depth](https://react.statuscode.com/issues/461)
 - [Animating ASCII in the terminal with React and Ink](https://react.statuscode.com/issues/460)
 - [Remotion is having the week of its life](https://react.statuscode.com/issues/459)
 - [A Social Filesystem](https://overreacted.io/a-social-filesystem/)
-- [React best practices for AI agents](https://react.statuscode.com/issues/458)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
