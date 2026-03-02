@@ -47,10 +47,10 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#144](https://github.com/ProddyAI/platform/pull/144) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
-2. 💪 Opened PR [#144](https://github.com/ProddyAI/platform/pull/144) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
-3. 🎉 Merged PR [#143](https://github.com/ProddyAI/platform/pull/143) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
-4. 💪 Opened PR [#143](https://github.com/ProddyAI/platform/pull/143) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
+1. 🎉 Merged PR [#151](https://github.com/ProddyAI/platform/pull/151) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
+2. 💪 Opened PR [#151](https://github.com/ProddyAI/platform/pull/151) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
+3. ❌ Closed PR [#150](https://github.com/ProddyAI/platform/pull/150) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
+4. 💪 Opened PR [#150](https://github.com/ProddyAI/platform/pull/150) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
 <!--END_SECTION:activity-->
 
 ## 👨‍💻 Tools and Frameworks  
