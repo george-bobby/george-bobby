@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How React’s Activity component helps keep state alive](https://react.statuscode.com/issues/465)
 - [Cloudflare makes its own Vite-powered Next.js](https://react.statuscode.com/issues/464)
 - [Sprites on the Web](https://www.joshwcomeau.com/animation/sprites/)
 - [TanStack Hotkeys, a new cross-platform keyboard toolkit](https://react.statuscode.com/issues/463)
 - [Building bulletproof React components and handling billion-row tables](https://react.statuscode.com/issues/462)
-- [A Next.js to TanStack Start migration in depth](https://react.statuscode.com/issues/461)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
