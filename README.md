@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to roll your own server-side React framework](https://react.statuscode.com/issues/467)
 - [What a week: Vite 8.0, RedwoodSDK 1.0, shadcn/cli v4...](https://react.statuscode.com/issues/466)
 - [How React’s Activity component helps keep state alive](https://react.statuscode.com/issues/465)
 - [Cloudflare makes its own Vite-powered Next.js](https://react.statuscode.com/issues/464)
 - [Sprites on the Web](https://www.joshwcomeau.com/animation/sprites/)
-- [TanStack Hotkeys, a new cross-platform keyboard toolkit](https://react.statuscode.com/issues/463)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
