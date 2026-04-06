@@ -41,7 +41,7 @@
 <div align="center">
  <img src="https://github-readme-stats-fast.vercel.app/api?username=george-bobby&show_icons=true&theme=dark&card_width=700&card_height=200">
  <br>
- <img src="https://nirzak-streak-stats.vercel.app/?user=george-bobby&theme=dark&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=200" />
+ <img src="https://streak-stats.demolab.com?user=george-bobby&theme=dark&card_width=700&card_height=200" alt="GitHub Streak" />
 </div>
 
 <br/>
