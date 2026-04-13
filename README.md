@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A React optimization case study from GitHub](https://react.statuscode.com/issues/469)
 - [Why test IDs are an accessibility code smell](https://react.statuscode.com/issues/468)
 - [Sneaky Header Blocker Trick](https://www.joshwcomeau.com/css/header-blockers/)
 - [How to roll your own server-side React framework](https://react.statuscode.com/issues/467)
 - [What a week: Vite 8.0, RedwoodSDK 1.0, shadcn/cli v4...](https://react.statuscode.com/issues/466)
-- [How React’s Activity component helps keep state alive](https://react.statuscode.com/issues/465)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
