@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A reimagining of JSX from a React core alum](https://react.statuscode.com/issues/471)
 - [TanStack Start rethinks React Server Components](https://react.statuscode.com/issues/470)
 - [Squash and Stretch](https://www.joshwcomeau.com/animation/squash-and-stretch/)
 - [A React optimization case study from GitHub](https://react.statuscode.com/issues/469)
 - [Why test IDs are an accessibility code smell](https://react.statuscode.com/issues/468)
-- [Sneaky Header Blocker Trick](https://www.joshwcomeau.com/css/header-blockers/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
