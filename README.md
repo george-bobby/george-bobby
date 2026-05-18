@@ -116,63 +116,22 @@
 ## 🔝 See Coding Activity 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C498%20hrs%2046%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.62%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2187 commits        █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-🌆 Daytime                5030 commits        ████████████░░░░░░░░░░░░░   49.84 % 
-🌃 Evening                2687 commits        ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-🌙 Night                  188 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1097 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Tuesday                  1783 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Wednesday                1981 commits        █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-Thursday                 1676 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Friday                   1525 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Saturday                 1206 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Sunday                   824 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   27 hrs 56 mins      ███████████████████░░░░░░   75.00 % 
-Other                    5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Markdown                 1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-JSON                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-YAML                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-
-🐱‍💻 Projects: 
-seed                     30 hrs 38 mins      █████████████████████░░░░   82.24 % 
-seed-1                   3 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-seed-2                   1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-gym                      46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-Development              25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.36%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               17 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               18 repos            ████████████░░░░░░░░░░░░░   48.65 % 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
 
 
- Last Updated on 11/05/2026 02:45:27 UTC
+ Last Updated on 18/05/2026 02:55:17 UTC
 <!--END_SECTION:waka-->
   
 ## 😜 Qoute of the Session
