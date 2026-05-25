@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RSCs in TanStack: better than Next.js?](https://react.statuscode.com/issues/475)
 - [A candid interview with Tanner Linsley](https://react.statuscode.com/issues/474)
 - [TanStack&#39;s experimental React clone](https://react.statuscode.com/issues/473)
 - [How React streams UI out of order](https://react.statuscode.com/issues/472)
 - [Scroll-Driven Animations](https://www.joshwcomeau.com/animation/scroll-driven-animations/)
-- [A reimagining of JSX from a React core alum](https://react.statuscode.com/issues/471)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
