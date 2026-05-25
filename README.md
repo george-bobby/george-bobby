@@ -47,9 +47,9 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#170](https://github.com/ProddyAI/platform/pull/170) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
-2. ❌ Closed PR [#161](https://github.com/ProddyAI/platform/pull/161) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
-3. 💪 Opened PR [#160](https://github.com/ProddyAI/platform/pull/160) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
+1. ❌ Closed PR [#174](https://github.com/ProddyAI/platform/pull/174) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
+2. ❌ Closed PR [#170](https://github.com/ProddyAI/platform/pull/170) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
+3. ❌ Closed PR [#161](https://github.com/ProddyAI/platform/pull/161) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
 4. 🎉 Merged PR [#159](https://github.com/ProddyAI/platform/pull/159) in [ProddyAI/platform](https://github.com/ProddyAI/platform)
 <!--END_SECTION:activity-->
 
