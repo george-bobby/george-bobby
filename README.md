@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🎉 React turns 13 years old today](https://react.statuscode.com/issues/476)
+- [CSS vs. JavaScript](https://www.joshwcomeau.com/animation/css-vs-javascript/)
 - [RSCs in TanStack: better than Next.js?](https://react.statuscode.com/issues/475)
 - [A candid interview with Tanner Linsley](https://react.statuscode.com/issues/474)
 - [TanStack&#39;s experimental React clone](https://react.statuscode.com/issues/473)
-- [How React streams UI out of order](https://react.statuscode.com/issues/472)
-- [Scroll-Driven Animations](https://www.joshwcomeau.com/animation/scroll-driven-animations/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
