@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [facebook/react is out, react/react is in](https://react.statuscode.com/issues/478)
 - [Every TanStack project all at once](https://react.statuscode.com/issues/477)
 - [🎉 React turns 13 years old today](https://react.statuscode.com/issues/476)
 - [CSS vs. JavaScript](https://www.joshwcomeau.com/animation/css-vs-javascript/)
 - [RSCs in TanStack: better than Next.js?](https://react.statuscode.com/issues/475)
-- [A candid interview with Tanner Linsley](https://react.statuscode.com/issues/474)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
