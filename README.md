@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [There Are No Instances in atproto](https://overreacted.io/there-are-no-instances-in-atproto/)
+- [React Router v8 is boring but good](https://react.statuscode.com/issues/479)
 - [facebook/react is out, react/react is in](https://react.statuscode.com/issues/478)
 - [Every TanStack project all at once](https://react.statuscode.com/issues/477)
 - [🎉 React turns 13 years old today](https://react.statuscode.com/issues/476)
-- [CSS vs. JavaScript](https://www.joshwcomeau.com/animation/css-vs-javascript/)
-- [RSCs in TanStack: better than Next.js?](https://react.statuscode.com/issues/475)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
