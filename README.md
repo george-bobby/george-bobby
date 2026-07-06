@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta releases its React design system](https://react.statuscode.com/issues/481)
 - [Dan Abramov joins the Next.js team](https://react.statuscode.com/issues/480)
 - [There Are No Instances in atproto](https://overreacted.io/there-are-no-instances-in-atproto/)
 - [React Router v8 is boring but good](https://react.statuscode.com/issues/479)
 - [facebook/react is out, react/react is in](https://react.statuscode.com/issues/478)
-- [Every TanStack project all at once](https://react.statuscode.com/issues/477)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
