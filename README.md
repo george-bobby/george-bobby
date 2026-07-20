@@ -116,7 +116,7 @@
 ## 🔝 See Coding Activity 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C860%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C883%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -145,16 +145,18 @@ Sunday                   416 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   20 hrs 17 mins      ██████████░░░░░░░░░░░░░░░   38.05 % 
-TypeScript               14 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   27.11 % 
-Markdown                 9 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Other                    4 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-JavaScript               1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Python                   9 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.74 % 
+TypeScript               6 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+Markdown                 2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Other                    1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+JSON                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 
 🐱‍💻 Projects: 
-gym                      35 hrs 36 mins      █████████████████░░░░░░░░   66.48 % 
-platform                 17 hrs 56 mins      ████████░░░░░░░░░░░░░░░░░   33.49 % 
-0.7.14                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+gym                      21 hrs 52 mins      ███████████████████████░░   91.88 % 
+whatsapp-agent           1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+eventtts-organizer       11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+platform                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+ws_v2                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -170,7 +172,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2026 02:11:56 UTC
+ Last Updated on 20/07/2026 02:29:11 UTC
 <!--END_SECTION:waka-->
   
 ## 😜 Qoute of the Session
