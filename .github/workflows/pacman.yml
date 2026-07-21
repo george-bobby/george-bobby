@@ -20,14 +20,25 @@ jobs:
     steps:
       - name: Increase Node.js memory limit
         run: export NODE_OPTIONS="--max-old-space-size=4096"
-        
+
+      # The action gives up after 3000 simulation frames and, on an unlucky run,
+      # exits 0 without writing dist/. Retry once and skip the push if it's empty,
+      # so a bad roll leaves the previous SVG in place instead of failing the run.
       - name: generate pacman-contribution-graph.svg
+        continue-on-error: true
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      - name: retry generate if nothing was produced
+        if: hashFiles('dist/*.svg') == ''
+        continue-on-error: true
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
 
       - name: push pacman-contribution-graph.svg to the output branch
+        if: hashFiles('dist/*.svg') != ''
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
