@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TanStack&#39;s new look, and life without RSC](https://react.statuscode.com/issues/485)
 - [The absolute state of &#39;state management&#39;](https://react.statuscode.com/issues/484)
 - [Pete Hunt is back to lead Next.js](https://react.statuscode.com/issues/483)
 - [A look into ChatGPT&#39;s React stack](https://react.statuscode.com/issues/482)
 - [Getting Started with Anchor Positioning](https://www.joshwcomeau.com/css/anchor-positioning/)
-- [Meta releases its React design system](https://react.statuscode.com/issues/481)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
