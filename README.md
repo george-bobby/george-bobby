@@ -29,10 +29,10 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TanStack Table v9 and Next.js 16.3](https://react.statuscode.com/issues/486)
 - [TanStack&#39;s new look, and life without RSC](https://react.statuscode.com/issues/485)
 - [The absolute state of &#39;state management&#39;](https://react.statuscode.com/issues/484)
 - [Pete Hunt is back to lead Next.js](https://react.statuscode.com/issues/483)
-- [A look into ChatGPT&#39;s React stack](https://react.statuscode.com/issues/482)
 - [Getting Started with Anchor Positioning](https://www.joshwcomeau.com/css/anchor-positioning/)
 <!-- BLOG-POST-LIST:END -->
 
