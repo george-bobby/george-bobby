@@ -12,9 +12,9 @@
 
 ## 💼 See My Works 
   
-- 👨‍💻 All of my projects are in [my portfolio](https://georgebobby.me/)  
+- 👨‍💻 All of my projects are in [my portfolio](https://georgebobby.dev/)  
   
-- 📝 I irregularly write articles on [my blog](https://georgebobby.me/blog)  
+- 📝 I irregularly write articles on [my blog](https://georgebobby.dev/blog)  
   
 - 📫 Reach me via **mailto.georgebobby@gmail.com**  
   
@@ -24,7 +24,7 @@
   
 - 🌱 I’m currently learning about [AI Agents](https://www.capgemini.com/insights/research-library/ai-agents/)
   
-- 👯 I’m looking to collaborate on [Proddy AI](https://proddy.tech/)
+- 👯 I’m looking to collaborate on [Proddy AI](https://proddyai.app/)
 
 ## 📝 Recently Read Posts
 
