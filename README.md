@@ -29,10 +29,10 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why StyleX is having a moment](https://react.statuscode.com/issues/489)
 - [Moving a 400-route app from Next.js to TanStack Start](https://react.statuscode.com/issues/488)
 - [The Next.js team is doing a Reddit AMA](https://react.statuscode.com/issues/487)
 - [TanStack Table v9 and Next.js 16.3](https://react.statuscode.com/issues/486)
-- [TanStack&#39;s new look, and life without RSC](https://react.statuscode.com/issues/485)
 - [Getting Started with Anchor Positioning](https://www.joshwcomeau.com/css/anchor-positioning/)
 <!-- BLOG-POST-LIST:END -->
 
