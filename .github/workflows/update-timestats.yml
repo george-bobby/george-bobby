@@ -17,7 +17,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: georgebawesome
           SHOW_OS: "False"
-          SHOW_TIMEZONE: "Flase"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_EDITORS: "False"
           SHOW_SHORT_INFO: "False"
@@ -26,3 +25,5 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_LANGUAGE: "True"
           SHOW_PROJECTS: "True"
+          SHOW_AI_STATS: "False"
+          SHOW_AI_CONTEXT: "False"
