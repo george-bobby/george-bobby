@@ -116,29 +116,27 @@
 ## 🔝 See Coding Activity 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C870%20hrs%2058%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-863%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C884%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.64%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                714 commits         ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
-🌆 Daytime                1246 commits        ███████████░░░░░░░░░░░░░░   44.85 % 
-🌃 Evening                737 commits         ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-🌙 Night                  81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+🌞 Morning                714 commits         ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+🌆 Daytime                1247 commits        ███████████░░░░░░░░░░░░░░   44.87 % 
+🌃 Evening                737 commits         ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+🌙 Night                  81 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Monday                   365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
 Tuesday                  339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
 Wednesday                521 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Thursday                 317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Friday                   425 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Saturday                 395 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Thursday                 318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Friday                   425 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Saturday                 395 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
 Sunday                   416 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
 ```
 
@@ -147,39 +145,15 @@ Sunday                   416 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   12 hrs 1 min        ████████░░░░░░░░░░░░░░░░░   33.59 % 
-Other                    10 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-Markdown                 5 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-TypeScript               4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-JSON                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   8 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   32.49 % 
+Markdown                 6 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
+TypeScript               4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Other                    4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+JSON                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 
 🐱‍💻 Projects: 
-gym                      35 hrs 20 mins      █████████████████████████   98.72 % 
-mcp-modal                27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 35 hrs 29 mins (99.13%)
-
-✍️ 4,401 lines written by AI, 3 lines written by hand (99.93% AI-written)
-
-🔤 23,278,401 Input Tokens, 3,770,715 Output Tokens
-
-💵 $1158.28 Estimated AI Cost This Week
-
-🧠 82 AI Sessions, 512 AI Prompts
-
-Opus                     4,426 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📚 Verbose Prompter — average 3,034 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+gym                      27 hrs 18 mins      █████████████████████████   99.85 % 
+tmp                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -195,7 +169,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 02:55:50 UTC
+ Last Updated on 17/09/2026 07:28:57 UTC
 <!--END_SECTION:waka-->
   
 ## 😜 Qoute of the Session
