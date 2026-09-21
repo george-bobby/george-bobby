@@ -116,7 +116,7 @@
 ## 🔝 See Coding Activity 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C884%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C902%20hrs%2022%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -145,15 +145,16 @@ Sunday                   416 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   32.49 % 
-Markdown                 6 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
-TypeScript               4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Other                    4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-JSON                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Markdown                 13 hrs 54 mins      ████████░░░░░░░░░░░░░░░░░   31.33 % 
+Other                    12 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+Python                   11 hrs 2 mins       ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+TypeScript               2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+HTML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🐱‍💻 Projects: 
-gym                      27 hrs 18 mins      █████████████████████████   99.85 % 
-tmp                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+gym                      44 hrs 22 mins      █████████████████████████   99.90 % 
+tmp                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+ideation-design-xvh7_wxp 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -169,7 +170,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 07:28:57 UTC
+ Last Updated on 21/09/2026 02:51:59 UTC
 <!--END_SECTION:waka-->
   
 ## 😜 Qoute of the Session
