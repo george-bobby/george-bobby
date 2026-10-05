@@ -116,7 +116,7 @@
 ## 🔝 See Coding Activity 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C975%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C022%20hrs%2050%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -145,34 +145,31 @@ Sunday                   416 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   35 hrs 51 mins      ███████████░░░░░░░░░░░░░░   44.97 % 
-Markdown                 23 hrs 53 mins      ███████░░░░░░░░░░░░░░░░░░   29.97 % 
-Other                    6 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-TypeScript               5 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Text                     2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Python                   19 hrs 54 mins      █████████░░░░░░░░░░░░░░░░   34.80 % 
+Markdown                 18 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   31.87 % 
+Other                    9 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Text                     2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+CSV                      2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 🐱‍💻 Projects: 
-gym                      77 hrs 53 mins      ████████████████████████░   97.66 % 
-tmp                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-memory                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-rules                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-review                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+gym                      57 hrs 10 mins      █████████████████████████   99.96 % 
+perplexity-tu-test       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               18 repos            ██████████░░░░░░░░░░░░░░░   41.86 % 
-Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+TypeScript               18 repos            ██████████░░░░░░░░░░░░░░░   40.91 % 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+TeX                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
 
 
- Last Updated on 28/09/2026 03:05:10 UTC
+ Last Updated on 05/10/2026 03:35:00 UTC
 <!--END_SECTION:waka-->
   
 ## 😜 Qoute of the Session
