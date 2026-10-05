@@ -47,10 +47,10 @@
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.4.0 — cost analysis and secret key inspection](https://github.com/george-bobby/mcp-modal/releases/tag/v0.4.0) in [george-bobby/mcp-modal](https://github.com/george-bobby/mcp-modal)
-2. 🚀 Published release [0.3.1 — refresh the PyPI page's install instructions](https://github.com/george-bobby/mcp-modal/releases/tag/v0.3.1) in [george-bobby/mcp-modal](https://github.com/george-bobby/mcp-modal)
-3. 🚀 Published release [0.3.0 — grouped tools, output caps, annotations, prompts](https://github.com/george-bobby/mcp-modal/releases/tag/v0.3.0) in [george-bobby/mcp-modal](https://github.com/george-bobby/mcp-modal)
-4. 🚀 Published release [0.2.4 — bump CI actions to Node 24-compatible versions](https://github.com/george-bobby/mcp-modal/releases/tag/v0.2.4) in [george-bobby/mcp-modal](https://github.com/george-bobby/mcp-modal)
+1. 🔒 Closed issue [#1723](https://github.com/cline/mcp-marketplace/issues/1723) in [cline/mcp-marketplace](https://github.com/cline/mcp-marketplace)
+2. 🔒 Closed issue [#831](https://github.com/dbcodeio/public/issues/831) in [dbcodeio/public](https://github.com/dbcodeio/public)
+3. 🚀 Published release [0.4.0 — cost analysis and secret key inspection](https://github.com/george-bobby/mcp-modal/releases/tag/v0.4.0) in [george-bobby/mcp-modal](https://github.com/george-bobby/mcp-modal)
+4. 🚀 Published release [0.3.1 — refresh the PyPI page's install instructions](https://github.com/george-bobby/mcp-modal/releases/tag/v0.3.1) in [george-bobby/mcp-modal](https://github.com/george-bobby/mcp-modal)
 <!--END_SECTION:activity-->
 
 ## 👨‍💻 Tools and Frameworks  
