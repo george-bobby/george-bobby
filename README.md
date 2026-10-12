@@ -116,7 +116,7 @@
 ## 🔝 See Coding Activity 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C022%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C055%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -145,15 +145,15 @@ Sunday                   416 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   19 hrs 54 mins      █████████░░░░░░░░░░░░░░░░   34.80 % 
-Markdown                 18 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   31.87 % 
-Other                    9 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Text                     2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-CSV                      2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Markdown                 10 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   30.56 % 
+Python                   10 hrs 33 mins      ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+Bash                     3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+JSON                     3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Text                     3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 
 🐱‍💻 Projects: 
-gym                      57 hrs 10 mins      █████████████████████████   99.96 % 
-perplexity-tu-test       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+gym                      35 hrs 37 mins      █████████████████████████   99.95 % 
+tmp                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -169,7 +169,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 03:35:00 UTC
+ Last Updated on 12/10/2026 03:49:47 UTC
 <!--END_SECTION:waka-->
   
 ## 😜 Qoute of the Session
