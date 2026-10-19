@@ -116,7 +116,7 @@
 ## 🔝 See Coding Activity 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C055%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C085%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -145,15 +145,18 @@ Sunday                   416 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 10 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   30.56 % 
-Python                   10 hrs 33 mins      ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-Bash                     3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-JSON                     3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Text                     3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Python                   12 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   32.20 % 
+Other                    8 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+Markdown                 7 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Bash                     2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+TypeScript               2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 
 🐱‍💻 Projects: 
-gym                      35 hrs 37 mins      █████████████████████████   99.95 % 
-tmp                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+gym                      38 hrs 15 mins      █████████████████████████   98.33 % 
+studio                   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+tmp6ql_9971              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+tmp1vxl2188              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+tmp1vyri83v              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -169,7 +172,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 03:49:47 UTC
+ Last Updated on 19/10/2026 02:51:42 UTC
 <!--END_SECTION:waka-->
   
 ## 😜 Qoute of the Session
