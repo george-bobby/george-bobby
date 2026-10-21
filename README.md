@@ -116,7 +116,7 @@
 ## 🔝 See Coding Activity 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C085%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C091%20hrs%2041%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.64%20million%20lines%20of%20code-blue?style=flat)
 
@@ -145,15 +145,15 @@ Sunday                   416 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   12 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   32.20 % 
-Other                    8 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
-Markdown                 7 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-Bash                     2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-TypeScript               2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Python                   11 hrs 6 mins       ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+Markdown                 10 hrs 9 mins       ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+Other                    8 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
+HTML                     2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Bash                     1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 
 🐱‍💻 Projects: 
-gym                      38 hrs 15 mins      █████████████████████████   98.33 % 
-studio                   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+gym                      38 hrs 53 mins      █████████████████████████   98.35 % 
+studio                   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 tmp6ql_9971              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 tmp1vxl2188              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 tmp1vyri83v              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
@@ -172,7 +172,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 02:51:42 UTC
+ Last Updated on 21/10/2026 13:07:42 UTC
 <!--END_SECTION:waka-->
   
 ## 😜 Qoute of the Session
