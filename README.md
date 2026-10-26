@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TanStack Start is finally stable](https://react.statuscode.com/issues/494)
+- [The Future of CSS ✨](https://www.joshwcomeau.com/css/interop-2027/)
 - [Next.js 16.4, and a new way to visualize React apps](https://react.statuscode.com/issues/493)
 - [Signals come to React-Redux](https://react.statuscode.com/issues/492)
 - [How I Vibed a Proof of Conway’s Conjecture](https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/)
-- [Why Lovable built a Vite-compatible dev server in Rust](https://react.statuscode.com/issues/491)
-- [Why Shopify is moving off React Native](https://react.statuscode.com/issues/490)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
