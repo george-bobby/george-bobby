@@ -29,11 +29,11 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [TanStack&#39;s smaller React for the browser](https://react.statuscode.com/issues/495)
 - [TanStack Start is finally stable](https://react.statuscode.com/issues/494)
 - [The Future of CSS ✨](https://www.joshwcomeau.com/css/interop-2027/)
 - [Next.js 16.4, and a new way to visualize React apps](https://react.statuscode.com/issues/493)
 - [Signals come to React-Redux](https://react.statuscode.com/issues/492)
-- [How I Vibed a Proof of Conway’s Conjecture](https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 View GitHub Stats
