@@ -179,7 +179,7 @@ Shell                    1 repo              █░░░░░░░░░░�
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
       
-## 🎧 Turn Up Beats
+## 🎧 Turn up the Beats
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31rbpi5pngeyagx5xg67okuuvrkm&width=700&count=3" />
@@ -187,7 +187,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
-## 🐍 Sizzling The Feed
+## 🕹️ Catch my commits 
 
 <div align="center">
 <picture>
