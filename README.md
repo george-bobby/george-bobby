@@ -29,10 +29,10 @@
 ## 📝 Recently Read Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Next.js has had so many security advisories](https://react.statuscode.com/issues/498)
 - [shadcn&#39;s next thing: UI SDK](https://react.statuscode.com/issues/497)
 - [Redux Toolkit&#39;s road to 3.0](https://react.statuscode.com/issues/496)
 - [TanStack&#39;s smaller React for the browser](https://react.statuscode.com/issues/495)
-- [TanStack Start is finally stable](https://react.statuscode.com/issues/494)
 - [The Future of CSS ✨](https://www.joshwcomeau.com/css/interop-2027/)
 <!-- BLOG-POST-LIST:END -->
 
